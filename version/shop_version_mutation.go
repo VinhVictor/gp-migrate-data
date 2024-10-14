@@ -34,40 +34,42 @@ type Mutation struct {
 	Operation string      `json:"operation"`
 }
 
-func (c Mutation) value(data map[string]any) (any, error) {
-	if c.Value != nil {
-		return c.Value, nil
+func (m Mutation) value(data map[string]any) (any, error) {
+	var (
+		value any
+		err   error
+	)
+	switch {
+	case m.Value != nil:
+		value = m.Value
+	case len(m.ValueFrom) != 0:
+		value, err = m.valueFrom(data)
+	case len(m.JoinValue) != 0:
+		value, err = m.joinValues(data)
+	case len(m.Operation) != 0:
+		value, err = m.calculateValue(data)
 	}
-
-	if len(c.ValueFrom) != 0 {
-		return c.valueFrom(data)
+	if err != nil {
+		return nil, err
 	}
-
-	if len(c.JoinValue) != 0 {
-		return c.joinValues(data)
-	}
-
-	if len(c.Operation) != 0 {
-		return c.calculateValue(data)
-	}
-	return nil, nil
+	return value, nil
 }
 
 // get the value of an attribute in property
 // data: { settings { background { desktop {attachment : "123px"}}}}
 // valueFrom: "settings.background.desktop.attachment"
 // result: "123px" || support any type
-func (c Mutation) valueFrom(data map[string]any) (any, error) {
-	return json.GetValueFromJSONMap(strings.Join([]string{c.TypeFrom, c.ValueFrom}, "."), data)
+func (m Mutation) valueFrom(data map[string]any) (any, error) {
+	return json.GetValueFromJSONMap(strings.Join([]string{m.TypeFrom, m.ValueFrom}, "."), data)
 }
 
 // Combine all values of 1 or more attributes
 // data: { settings { background { desktop {attachment : "123px", iconSpacing: "12px", color: "#AE0000"}}}}
 // joinValues: ["settings.background.desktop.attachment", "settings.background.desktop.iconSpacing", "settings.background.desktop.color"]
 // result: "123px/12px/#AE0000" || just support for string value
-func (c Mutation) joinValues(data map[string]any) (string, error) {
-	valuesStr := make([]string, 0, len(c.JoinValue))
-	values, err := json.GetValuesFromJSONMap(c.JoinValue, data)
+func (m Mutation) joinValues(data map[string]any) (string, error) {
+	valuesStr := make([]string, 0, len(m.JoinValue))
+	values, err := json.GetValuesFromJSONMap(m.JoinValue, data)
 	if err != nil {
 		return "", err
 	}
@@ -84,12 +86,12 @@ func (c Mutation) joinValues(data map[string]any) (string, error) {
 // calculate value using operation and params ( support js function )
 // operation: "settings.desktop.height + settings.desktop.width" params: "setting": { "desktop": { "width": 50, "height": 60}
 // result: 110
-func (c Mutation) calculateValue(data map[string]any) (any, error) {
+func (m Mutation) calculateValue(data map[string]any) (any, error) {
 	vm := goja.New()
-	if c.Params != nil {
-		for i, param := range c.Params {
+	if m.Params != nil {
+		for i, param := range m.Params {
 			paramName := fmt.Sprintf("param%v", i)
-			c.Operation = strings.ReplaceAll(c.Operation, param, paramName)
+			m.Operation = strings.ReplaceAll(m.Operation, param, paramName)
 			value, err := json.GetValueFromJSONMap(param, data)
 			if err != nil {
 				return nil, err
@@ -100,7 +102,7 @@ func (c Mutation) calculateValue(data map[string]any) (any, error) {
 			}
 		}
 	}
-	runString, err := vm.RunString(c.Operation)
+	runString, err := vm.RunString(m.Operation)
 	if err != nil {
 		return nil, fmt.Errorf("failed to calculate operation: %w", err)
 	}

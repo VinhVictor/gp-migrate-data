@@ -84,19 +84,34 @@ func splitFieldPath(fieldPath string) []string {
 
 // CompareInterface performs a comparison between two interface{} values with the specified option.
 func CompareInterface(a, b interface{}, option CompareResult) bool {
-	if a == nil && b == nil {
-		return true
-	}
 	if a == nil || b == nil {
-		return false
+		return handleNilComparison(a, b, option)
 	}
 
 	v1 := reflect.ValueOf(a)
 	v2 := reflect.ValueOf(b)
 	if v1.Type() != v2.Type() {
+		return handleTypeMismatch(option)
+	}
+	return performComparison(v1, v2, option)
+}
+
+func handleTypeMismatch(option CompareResult) bool {
+	return option == NEQ
+}
+
+func handleNilComparison(a, b interface{}, option CompareResult) bool {
+	switch option {
+	case EQ:
+		return a == nil && b == nil
+	case NEQ:
+		return a != nil || b != nil
+	default:
 		return false
 	}
+}
 
+func performComparison(v1, v2 reflect.Value, option CompareResult) bool {
 	switch option {
 	case LT:
 		return compare(v1, v2) < 0
@@ -110,8 +125,9 @@ func CompareInterface(a, b interface{}, option CompareResult) bool {
 		return compare(v1, v2) == 0
 	case NEQ:
 		return compare(v1, v2) != 0
+	default:
+		return false
 	}
-	return false
 }
 
 // Perform comparison of comparable data types here.

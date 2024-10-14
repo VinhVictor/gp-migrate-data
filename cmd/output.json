@@ -1277,8 +1277,7 @@
               "desktop": "40px",
               "mobile": "20px",
               "tablet": "210px"
-            },
-            "width": { "desktop": "100%" }
+            }
           },
           "tag": "Row",
           "uid": "gfEBn5Yedw"
