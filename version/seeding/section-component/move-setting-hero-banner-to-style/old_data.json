@@ -1,0 +1,111 @@
+{
+    "uid": "gyTDBaLpPl",
+    "tag": "HeroBanner",
+    "label": "Hero Banner",
+    "settings": {
+        "layout": {
+            "desktop": {
+                "cols": [
+                    6,
+                    6
+                ],
+                "display": "fill"
+            }
+        },
+        "background": {
+            "desktop": {
+                "type": "image",
+                "color": "rgba(255, 255, 255, 0)",
+                "image": {
+                    "src": "https://ucarecdn.com/99772b6e-287b-4f9f-a30c-8f4bfc81e47d/-/format/auto/-/preview/3000x3000/-/quality/lighter/Source%20background%20image.jpg",
+                    "width": 1920,
+                    "height": 900
+                },
+                "size": "contain",
+                "position": {
+                    "x": 100,
+                    "y": 50
+                },
+                "repeat": "no-repeat",
+                "attachment": "scroll"
+            }
+        },
+        "horizontalAlign": {
+            "desktop": "start"
+        },
+        "verticalAlign": {
+            "desktop": "start"
+        },
+        "preload": true,
+        "link": {
+            "link": "",
+            "target": "_self"
+        },
+        "hoverEffect": "none",
+        "hoverEffectScale": "110%",
+        "hoverEffectDuration": 0.5
+    },
+    "styles": {
+        "height": {
+            "desktop": "800px"
+        },
+        "overlayOpacity": {
+            "normal": "0%"
+        },
+        "fixedMode": false,
+        "contentPosition": "center",
+        "fullWidth": {
+            "desktop": false,
+            "tablet": false,
+            "mobile": false
+        },
+        "verticalGutter": {
+            "desktop": "32px"
+        },
+        "overlayColor": {
+            "normal": "#121212"
+        }
+    },
+    "advanced": {
+        "spacing-setting": {
+            "desktop": {
+                "margin": {
+                    "bottom": "var(--g-s-l)"
+                }
+            }
+        },
+        "d": {
+            "desktop": true,
+            "tablet": true,
+            "mobile": true
+        },
+        "border": {
+            "borderType": "none",
+            "border": "solid",
+            "borderWidth": "0px",
+            "width": "0px",
+            "color": "#121212",
+            "isCustom": true
+        },
+        "rounded": {
+            "btrr": "0px",
+            "bblr": "0px",
+            "bbrr": "0px",
+            "btlr": "0px",
+            "radiusType": "none"
+        },
+        "hasBoxShadow": false,
+        "boxShadow": {
+            "type": "shadow-1",
+            "distance": "4px",
+            "blur": "12px",
+            "spread": "0px",
+            "color": "rgba(0, 0, 0, 0.20)",
+            "angle": 90
+        },
+        "op": {
+            "desktop": "100%"
+        }
+    },
+    "childrens": []
+}

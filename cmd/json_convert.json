@@ -1,0 +1,252 @@
+{
+  "Row": [
+    {
+      "type": "styles",
+      "name": "width",
+      "action": "ADD",
+      "condition": {
+        "x": "styles.width",
+        "type": "test"
+      },
+      "fields": [
+        {
+          "name": "desktop",
+          "value": "100%",
+          "action": "ADD",
+          "condition": {
+            "x": "styles.fullWidth.desktop",
+            "y": true,
+            "type": "EQ"
+          }
+        },
+        {
+          "name": "tablet",
+          "value": "100%",
+          "action": "ADD",
+          "condition": {
+            "x": "styles.fullWidth.tablet",
+            "y": true,
+            "type": "EQ"
+          }
+        },
+        {
+          "name": "mobile",
+          "value": "100%",
+          "action": "ADD",
+          "condition": {
+            "x": "styles.fullWidth.mobile",
+            "y": true,
+            "type": "EQ"
+          }
+        }
+      ]
+    },
+    {
+      "type": "styles",
+      "name": "width",
+      "action": "UPDATE",
+      "fields": [
+        {
+          "name": "desktop",
+          "value": "100%",
+          "action": "UPDATE",
+          "condition": {
+            "x": "styles.fullWidth.desktop",
+            "y": true,
+            "type": "EQ"
+          }
+        },
+        {
+          "name": "tablet",
+          "value": "100%",
+          "action": "UPDATE",
+          "condition": {
+            "x": "styles.fullWidth.tablet",
+            "y": true,
+            "type": "EQ"
+          }
+        },
+        {
+          "name": "mobile",
+          "value": "100%",
+          "action": "UPDATE",
+          "condition": {
+            "x": "styles.fullWidth.mobile",
+            "y": true,
+            "type": "EQ"
+          }
+        }
+      ]
+    },
+    {
+      "type": "styles",
+      "name": "width",
+      "action": "REMOVE",
+      "condition": {
+        "x": "styles.width.desktop",
+        "type": "test",
+        "and": {
+          "x": "styles.width.tablet",
+          "type": "test",
+          "and": {
+            "x": "styles.width.mobile",
+            "type": "test"
+          }
+        }
+      }
+    },
+    {
+      "type": "styles",
+      "name": "fullWidth",
+      "action": "REMOVE"
+    },
+    {
+      "type": "advanced",
+      "name": "boxShadow",
+      "action": "UPDATE",
+      "fields": [
+        {
+          "name": "desktop",
+          "action": "UPDATE",
+          "fields": [
+            {
+              "name": "normal",
+              "action": "UPDATE",
+              "condition": {
+                "x": "hasBoxShadow.desktop.normal",
+                "y": "false",
+                "type": "EQ"
+              },
+              "fields": [
+                {
+                  "name": "type",
+                  "action": "UPDATE",
+                  "value": "undefined"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "tablet",
+          "action": "UPDATE",
+          "fields": [
+            {
+              "name": "normal",
+              "action": "UPDATE",
+              "condition": {
+                "x": "hasBoxShadow.tablet.normal",
+                "y": "false",
+                "type": "EQ"
+              },
+              "fields": [
+                {
+                  "name": "type",
+                  "action": "UPDATE",
+                  "value": "undefined"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "mobile",
+          "action": "UPDATE",
+          "fields": [
+            {
+              "name": "normal",
+              "action": "UPDATE",
+              "condition": {
+                "x": "hasBoxShadow.mobile.normal",
+                "y": "false",
+                "type": "EQ"
+              },
+              "fields": [
+                {
+                  "name": "type",
+                  "action": "UPDATE",
+                  "value": "undefined"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Section": [
+    {
+      "type": "advanced",
+      "name": "boxShadow",
+      "action": "UPDATE",
+      "fields": [
+        {
+          "name": "desktop",
+          "action": "UPDATE",
+          "fields": [
+            {
+              "name": "normal",
+              "action": "UPDATE",
+              "condition": {
+                "x": "hasBoxShadow.desktop.normal",
+                "y": "false",
+                "type": "EQ"
+              },
+              "fields": [
+                {
+                  "name": "type",
+                  "action": "UPDATE",
+                  "value": "undefined"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "tablet",
+          "action": "UPDATE",
+          "fields": [
+            {
+              "name": "normal",
+              "action": "UPDATE",
+              "condition": {
+                "x": "hasBoxShadow.tablet.normal",
+                "y": "false",
+                "type": "EQ"
+              },
+              "fields": [
+                {
+                  "name": "type",
+                  "action": "UPDATE",
+                  "value": "undefined"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "mobile",
+          "action": "UPDATE",
+          "fields": [
+            {
+              "name": "normal",
+              "action": "UPDATE",
+              "condition": {
+                "x": "hasBoxShadow.mobile.normal",
+                "y": "false",
+                "type": "EQ"
+              },
+              "fields": [
+                {
+                  "name": "type",
+                  "action": "UPDATE",
+                  "value": "undefined"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

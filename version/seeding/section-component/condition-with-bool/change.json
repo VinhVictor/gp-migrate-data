@@ -1,0 +1,43 @@
+{
+  "Button": [
+    {
+      "type": "styles",
+      "name": "globalSize",
+      "action": "ADD",
+      "fields": [
+        {
+          "name": "desktop",
+          "action": "ADD",
+          "fields": [
+            {
+              "name": "height",
+              "action": "ADD",
+              "value": "Auto"
+            },
+            {
+              "name": "width",
+              "action": "ADD",
+              "value": "100%",
+              "condition": {
+                "x": true,
+                "y": "styles.fullWidth.desktop",
+                "type": "EQ"
+              }
+            },
+            {
+              "name": "width",
+              "action": "ADD",
+              "typeFrom": "styles",
+              "valueFrom": "width.desktop",
+              "condition": {
+                "x": "styles.fullWidth.desktop",
+                "y": false,
+                "type": "EQ"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

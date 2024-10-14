@@ -1,0 +1,39 @@
+{
+  "Section": [
+    {
+      "name": "iconSpacing",
+      "action": "UPDATE",
+      "type": "settings",
+      "fields": [
+        {
+          "name": "custom",
+          "action": "UPDATE",
+          "fields": [
+            {
+              "name": "desktop",
+              "action": "UPDATE",
+              "fields": [
+                {
+                  "name": "width",
+                  "action": "ADD",
+                  "value": "100px"
+                }
+              ]
+            },
+            {
+              "name": "tablet",
+              "action": "UPDATE",
+              "fields": [
+                {
+                  "name": "width",
+                  "action": "ADD",
+                  "value": "100px"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

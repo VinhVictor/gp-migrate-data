@@ -1,0 +1,32 @@
+{
+  "uid": "gaEbJxKSet",
+  "tag": "Button",
+  "label": "Button",
+  "settings": {},
+  "styles": {
+    "globalSize": {
+      "desktop": {
+        "width": "100%",
+        "height": "Auto",
+        "padding": {
+          "top": "8px",
+          "bottom": "8px",
+          "left": "24px",
+          "right": "24px",
+          "type": "medium"
+        }
+      }
+    },
+    "fullWidth": {
+      "desktop": true
+    },
+    "btnSpacing": {
+      "type": "medium"
+    },
+    "width": {
+      "desktop": "px"
+    }
+  },
+  "advanced": {},
+  "childrens": []
+}

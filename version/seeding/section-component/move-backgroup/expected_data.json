@@ -1,0 +1,35 @@
+{
+  "advanced": {
+    "padding": {
+      "desktop": {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    }
+  },
+  "childrens": [],
+  "label": "Section",
+  "settings": {
+    "container": true,
+    "fullHeight": {
+      "desktop": false
+    },
+    "fullWidth": {
+      "desktop": true
+    },
+    "lazy": false,
+    "responsive": {
+      "desktop": "minmax(0, 24fr)"
+    },
+    "verticalGutter": {
+      "desktop": "30px"
+    },
+    "width": {
+      "desktop": "100%"
+    }
+  },
+  "styles": {},
+  "tag": "Section",
+  "uid": "kwrpmXWJ4r"
+}
+

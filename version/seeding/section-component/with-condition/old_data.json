@@ -1,0 +1,19 @@
+{
+  "uid": "gaEbJxKSet",
+  "tag": "Button",
+  "label": "Button",
+  "settings": {},
+  "styles": {
+    "fullWidth": {
+      "desktop": true
+    },
+    "btnSpacing": {
+      "type": "medium"
+    },
+    "width": {
+      "desktop": "px"
+    }
+  },
+  "advanced": {},
+  "childrens": []
+}

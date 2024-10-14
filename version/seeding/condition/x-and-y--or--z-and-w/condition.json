@@ -1,0 +1,20 @@
+{
+  "x": "settings.background.desktop.image.height",
+  "y": 1,
+  "type": "LTE",
+  "and": {
+    "x": "settings.container",
+    "y": false,
+    "type": "EQ"
+  },
+  "or": {
+    "x": "settings.fullHeight.desktop",
+    "y": false,
+    "type": "EQ",
+    "and": {
+      "x": "settings.responsive.desktop",
+      "y": "minmax(0, 24fr)",
+      "type": "EQ"
+    }
+  }
+}

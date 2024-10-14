@@ -1,0 +1,20 @@
+{
+  "Section": [
+    {
+      "name": "valueIsBool",
+      "action": "UPDATE",
+      "type": "settings",
+      "value": true
+    },
+    {
+      "name": "valueNotExists",
+      "action": "UPDATE",
+      "type": "settings"
+    },
+    {
+      "name": "valueIsEmptySTR",
+      "action": "UPDATE",
+      "type": ""
+    }
+  ]
+}

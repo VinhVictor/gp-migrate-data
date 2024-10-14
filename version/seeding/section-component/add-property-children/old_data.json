@@ -1,0 +1,19 @@
+{
+  "uid": "gaEbJxKSet",
+  "tag": "Section",
+  "label": "Section",
+  "settings": {},
+  "styles": {},
+  "advanced": {},
+  "childrens": [
+    {
+      "uid": "gaEbJxKSet",
+      "tag": "Section",
+      "label": "Section",
+      "settings": {},
+      "styles": {},
+      "advanced": {},
+      "childrens": []
+    }
+  ]
+}

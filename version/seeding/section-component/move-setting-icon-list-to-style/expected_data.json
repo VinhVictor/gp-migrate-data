@@ -1,0 +1,87 @@
+{
+  "uid": "gk_ZxQ4BBE",
+  "tag": "IconList",
+  "label": "Icon List",
+  "settings": {
+    "childItem": [
+      "Icon 1",
+      "Icon 2",
+      "Icon 3"
+    ],
+    "preload": true
+  },
+  "styles": {
+    "background": {
+      "desktop": {
+        "type": "color",
+        "color": "transparent",
+        "image": {
+          "src": "",
+          "width": 0,
+          "height": 0
+        },
+        "size": "cover",
+        "position": {
+          "x": 50,
+          "y": 50
+        },
+        "repeat": "no-repeat",
+        "attachment": "scroll"
+      }
+    },
+    "align": {
+      "desktop": "left"
+    },
+    "horizontalSpacing": {
+      "desktop": "var(--g-s-l)",
+      "tablet": "12px"
+    },
+    "verticalSpacing": {
+      "desktop": "var(--g-s-l)",
+      "tablet": "12px"
+    }
+  },
+  "advanced": {
+    "spacing-setting": {
+      "desktop": {
+        "margin": {
+          "bottom": "var(--g-s-l)"
+        }
+      }
+    },
+    "d": {
+      "desktop": true,
+      "tablet": true,
+      "mobile": true
+    },
+    "border": {
+      "borderType": "none",
+      "border": "solid",
+      "borderWidth": "0px",
+      "width": "0px",
+      "color": "#121212",
+      "isCustom": true
+    },
+    "rounded": {
+      "btrr": "0px",
+      "bblr": "0px",
+      "bbrr": "0px",
+      "btlr": "0px",
+      "radiusType": "none"
+    },
+    "hasBoxShadow": false,
+    "boxShadow": {
+      "type": "shadow-1",
+      "distance": "4px",
+      "blur": "12px",
+      "spread": "0px",
+      "color": "rgba(0, 0, 0, 0.20)",
+      "angle": 90
+    },
+    "op": {
+      "desktop": "100%"
+    }
+  },
+  "childrens": []
+}
+

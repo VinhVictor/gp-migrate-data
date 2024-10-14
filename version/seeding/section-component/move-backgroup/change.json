@@ -1,0 +1,10 @@
+{
+  "Section": [
+    {
+      "name": "background",
+      "action": "REMOVE",
+      "type": "settings"
+    }
+  ]
+}
+

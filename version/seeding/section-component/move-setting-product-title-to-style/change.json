@@ -1,0 +1,88 @@
+{
+  "ProductTitle": [
+    {
+      "name": "typo",
+      "action": "ADD",
+      "type": "styles",
+      "typeFrom": "settings",
+      "valueFrom": "typo"
+    },
+    {
+      "name": "typo",
+      "type": "settings",
+      "action": "REMOVE"
+    },
+    {
+      "name": "textAlign",
+      "action": "ADD",
+      "type": "styles",
+      "typeFrom": "settings",
+      "valueFrom": "textAlign"
+    },
+    {
+      "name": "textAlign",
+      "action": "REMOVE",
+      "type": "settings"
+    },
+    {
+      "name": "hasLineClamp",
+      "action": "ADD",
+      "type": "styles",
+      "typeFrom": "settings",
+      "valueFrom": "hasLineClamp"
+    },
+    {
+      "name": "hasLineClamp",
+      "action": "REMOVE",
+      "type": "settings"
+    },
+    {
+      "name": "lineClamp",
+      "action": "ADD",
+      "type": "styles",
+      "typeFrom": "settings",
+      "valueFrom": "lineClamp"
+    },
+    {
+      "name": "lineClamp",
+      "action": "REMOVE",
+      "type": "settings"
+    },
+    {
+      "name": "color",
+      "action": "ADD",
+      "type": "styles",
+      "typeFrom": "settings",
+      "valueFrom": "color"
+    },
+    {
+      "name": "color",
+      "action": "REMOVE",
+      "type": "settings"
+    },
+    {
+      "name": "hasTextShadow",
+      "action": "ADD",
+      "type": "styles",
+      "typeFrom": "settings",
+      "valueFrom": "hasTextShadow"
+    },
+    {
+      "name": "hasTextShadow",
+      "action": "REMOVE",
+      "type": "settings"
+    },
+    {
+      "name": "textShadow",
+      "action": "ADD",
+      "type": "styles",
+      "typeFrom": "settings",
+      "valueFrom": "textShadow"
+    },
+    {
+      "name": "textShadow",
+      "action": "REMOVE",
+      "type": "settings"
+    }
+  ]
+}

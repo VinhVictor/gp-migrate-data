@@ -1,0 +1,14 @@
+{
+  "uid": "gaEbJxKSet",
+  "tag": "Section",
+  "label": "Section",
+  "settings": {
+    "iconSizeBackup": "start",
+    "valueIsBool": true,
+    "valueNotExists": true,
+    "valueIsEmptySTR": true
+  },
+  "styles": {},
+  "advanced": {},
+  "childrens": []
+}

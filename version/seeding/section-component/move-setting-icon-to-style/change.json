@@ -1,0 +1,112 @@
+{
+    "Icon": [
+      {
+        "name": "iconWidth",
+        "action": "ADD",
+        "typeFrom": "settings",
+        "valueFrom": "iconWidth",
+        "type": "styles"
+      },
+      {
+        "name": "iconWidth",
+        "action": "REMOVE",
+        "type": "settings"
+      },
+      {
+        "name": "iconSpacing",
+        "action": "ADD",
+        "typeFrom": "settings",
+        "valueFrom": "iconSpacing",
+        "type": "styles"
+      },
+      {
+        "name": "iconSpacing",
+        "action": "REMOVE",
+        "type": "settings"
+      },
+      {
+        "name": "bgColor",
+        "action": "ADD",
+        "typeFrom": "settings",
+        "valueFrom": "bgColor",
+        "type": "styles"
+      },
+      {
+        "name": "bgColor",
+        "action": "REMOVE",
+        "type": "settings"
+      },
+      {
+        "name": "color",
+        "action": "ADD",
+        "typeFrom": "settings",
+        "valueFrom": "color",
+        "type": "styles"
+      },
+      {
+        "name": "color",
+        "action": "REMOVE",
+        "type": "settings"
+      },
+      {
+        "name": "iconBorder",
+        "action": "ADD",
+        "typeFrom": "settings",
+        "valueFrom": "iconBorder",
+        "type": "styles"
+      },
+      {
+        "name": "iconBorder",
+        "action": "REMOVE",
+        "type": "settings"
+      },
+      {
+        "name": "iconRounded",
+        "action": "ADD",
+        "typeFrom": "settings",
+        "valueFrom": "iconRounded",
+        "type": "styles"
+      },
+      {
+        "name": "iconRounded",
+        "action": "REMOVE",
+        "type": "settings"
+      },
+      {
+        "name": "spin",
+        "action": "ADD",
+        "typeFrom": "settings",
+        "valueFrom": "spin",
+        "type": "styles"
+      },
+      {
+        "name": "spin",
+        "action": "REMOVE",
+        "type": "settings"
+      },
+      {
+        "name": "iconRotate",
+        "action": "ADD",
+        "typeFrom": "settings",
+        "valueFrom": "iconRotate",
+        "type": "styles"
+      },
+      {
+        "name": "iconRotate",
+        "action": "REMOVE",
+        "type": "settings"
+      },
+      {
+        "name": "align",
+        "action": "ADD",
+        "typeFrom": "settings",
+        "valueFrom": "align",
+        "type": "styles"
+      },
+      {
+        "name": "align",
+        "action": "REMOVE",
+        "type": "settings"
+      }
+    ]
+  }

@@ -1,0 +1,10 @@
+{
+  "Section": [
+    {
+      "name": "iconSizeBackup",
+      "action": "ADD",
+      "type": "settings",
+      "value": "start"
+    }
+  ]
+}

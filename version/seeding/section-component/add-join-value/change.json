@@ -1,0 +1,22 @@
+{
+  "Section": [
+    {
+      "name": "iconSpacingCustom",
+      "action": "ADD",
+      "type": "settings",
+      "joinValue": ["styles.iconSpacing.custom.desktop.vertical", "styles.iconSpacing.custom.tablet.vertical", "styles.iconSpacing.custom.mobile.vertical"]
+    },
+    {
+      "name": "colorCustom",
+      "action": "ADD",
+      "type": "settings",
+      "joinValue": ["styles.color.normal", "styles.color.isCustom"]
+    },
+    {
+      "name": "color",
+      "action": "ADD",
+      "type": "settings",
+      "joinValue": [""]
+    }
+  ]
+}

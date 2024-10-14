@@ -1,0 +1,52 @@
+{
+  "advanced": {
+    "padding": {
+      "desktop": {
+        "bottom": "30px",
+        "top": "30px"
+      }
+    }
+  },
+  "childrens": [],
+  "label": "Section",
+  "settings": {
+    "background": {
+      "desktop": {
+        "attachment": "scroll",
+        "color": "transparent",
+        "image": {
+          "height": 0,
+          "src": "",
+          "width": 0
+        },
+        "position": {
+          "x": 50,
+          "y": 50
+        },
+        "repeat": "no-repeat",
+        "size": "cover",
+        "type": "color"
+      }
+    },
+    "container": true,
+    "fullHeight": {
+      "desktop": false
+    },
+    "fullWidth": {
+      "desktop": true
+    },
+    "lazy": false,
+    "responsive": {
+      "desktop": "minmax(0, 24fr)"
+    },
+    "verticalGutter": {
+      "desktop": "30px"
+    },
+    "width": {
+      "desktop": "100%"
+    }
+  },
+  "styles": {},
+  "tag": "Section",
+  "uid": "kwrpmXWJ4r"
+}

@@ -1,0 +1,69 @@
+{
+  "advanced": {},
+  "childrens": [
+    {
+      "advanced": {},
+      "childrens": [],
+      "label": "Section",
+      "settings": {
+        "colorCustom": "blue",
+        "color": "",
+        "iconSpacingCustom": "121px/131px/141px"
+      },
+      "styles": {
+        "color": {
+          "isCustom": false,
+          "normal": "blue"
+        },
+        "iconSpacing": {
+          "custom": {
+            "desktop": {
+              "horizontal": "121px",
+              "vertical": "121px"
+            },
+            "mobile": {
+              "horizontal": "141px",
+              "vertical": "141px"
+            },
+            "tablet": {
+              "horizontal": "131px",
+              "vertical": "131px"
+            }
+          }
+        }
+      },
+      "tag": "Section",
+      "uid": "gaEbJxKSet"
+    }
+  ],
+  "label": "Section",
+  "settings": {
+    "colorCustom": "red",
+    "color": "",
+    "iconSpacingCustom": "12px/13px/14px"
+  },
+  "styles": {
+    "color": {
+      "isCustom": false,
+      "normal": "red"
+    },
+    "iconSpacing": {
+      "custom": {
+        "desktop": {
+          "horizontal": "12px",
+          "vertical": "12px"
+        },
+        "mobile": {
+          "horizontal": "14px",
+          "vertical": "14px"
+        },
+        "tablet": {
+          "horizontal": "13px",
+          "vertical": "13px"
+        }
+      }
+    }
+  },
+  "tag": "Section",
+  "uid": "gaEbJxKSet"
+}

@@ -1,0 +1,31 @@
+{
+  "Section": [
+    {
+      "name": "width",
+      "action": "ADD",
+      "type": "styles",
+      "value": "100px"
+    },
+    {
+      "name": "hasWidth",
+      "action": "ADD",
+      "type": "styles",
+      "value": true
+    },
+    {
+      "name": "desktop",
+      "action": "ADD",
+      "type": "styles",
+      "value": {
+        "height": "100px",
+        "weight": "200px"
+      }
+    },
+    {
+      "name": "shadow",
+      "action": "ADD",
+      "type": "styles",
+      "value": 1000
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "uid": "gaEbJxKSet",
+  "tag": "Section",
+  "label": "Section",
+  "settings": {
+    "iconSizeBackup": "start"
+  },
+  "styles": {},
+  "advanced": {},
+  "childrens": [
+    {
+      "uid": "gaEbJxKSet",
+      "tag": "Section",
+      "label": "Section",
+      "settings": {
+        "iconSizeBackup": "start"
+      },
+      "styles": {},
+      "advanced": {},
+      "childrens": []
+    }
+  ]
+}

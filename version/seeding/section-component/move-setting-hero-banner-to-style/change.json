@@ -1,0 +1,53 @@
+{
+    "HeroBanner": [
+      {
+        "name": "background",
+        "action": "ADD",
+        "type": "styles",
+        "typeFrom": "settings",
+        "valueFrom": "background"
+      },
+      {
+        "name": "background",
+        "action": "REMOVE",
+        "type": "settings"
+      },
+      {
+        "name": "hoverEffect",
+        "action": "ADD",
+        "type": "styles",
+        "typeFrom": "settings",
+        "valueFrom": "hoverEffect"
+      },
+      {
+        "name": "hoverEffect",
+        "action": "REMOVE",
+        "type": "settings"
+      },
+      {
+        "name": "hoverEffectDuration",
+        "action": "ADD",
+        "type": "styles",
+        "typeFrom": "settings",
+        "valueFrom": "hoverEffectDuration"
+      },
+      {
+        "name": "hoverEffectDuration",
+        "action": "REMOVE",
+        "type": "settings"
+      },
+      {
+        "name": "hoverEffectScale",
+        "action": "ADD",
+        "type": "styles",
+        "typeFrom": "settings",
+        "valueFrom": "hoverEffectScale"
+      },
+      {
+        "name": "hoverEffectScale",
+        "action": "REMOVE",
+        "type": "settings"
+      }
+    ]
+  }
+

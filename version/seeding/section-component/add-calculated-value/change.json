@@ -1,0 +1,17 @@
+{
+  "Section": [
+    {
+      "name": "iconSpacingCustom",
+      "action": "ADD",
+      "type": "settings",
+      "operation": "(100/3).toFixed(2)"
+    },
+    {
+      "name": "colorCustom",
+      "action": "ADD",
+      "type": "settings",
+      "params": ["styles.color.normal", "styles.color.isCustom"],
+      "operation": "styles.color.normal.concat(' ',styles.color.isCustom)"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Section": [
+    {
+      "name": "iconSizeBackup",
+      "action": "UPDATE",
+      "type": "settings",
+      "newName": "iconSizeBackupUpdate"
+    },
+    {
+      "name": "changeKey",
+      "action": "UPDATE",
+      "type": "settings",
+      "value": true
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "uid": "gaEbJxKSet",
+  "tag": "Section",
+  "label": "Section",
+  "settings": {},
+  "styles": {
+    "width": "100px",
+    "hasWidth": true,
+    "desktop": {
+      "height": "100px",
+      "weight": "200px"
+    },
+    "shadow": 1000
+  },
+  "advanced": {},
+  "childrens": []
+}

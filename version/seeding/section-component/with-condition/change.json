@@ -1,0 +1,294 @@
+{
+  "Button": [
+    {
+      "type": "styles",
+      "name": "globalSize",
+      "action": "ADD",
+      "fields": [
+        {
+          "name": "desktop",
+          "action": "ADD",
+          "fields": [
+            {
+              "name": "height",
+              "action": "ADD",
+              "value": "Auto"
+            },
+            {
+              "name": "width",
+              "action": "ADD",
+              "value": "100%",
+              "condition": {
+                "x": "styles.fullWidth.desktop",
+                "y": true,
+                "type": "EQ"
+              }
+            },
+            {
+              "name": "width",
+              "action": "ADD",
+              "typeFrom": "styles",
+              "valueFrom": "width.desktop",
+              "condition": {
+                "x": "styles.fullWidth.desktop",
+                "y": false,
+                "type": "EQ"
+              }
+            },
+            {
+              "name": "padding",
+              "action": "ADD",
+              "fields": [
+                {
+                  "name": "type",
+                  "action": "ADD",
+                  "typeFrom": "styles",
+                  "valueFrom": "btnSpacing.type",
+                  "condition": {
+                    "x": "styles.btnSpacing.type",
+                    "y": "small",
+                    "type": "EQ",
+                    "or": {
+                      "x": "styles.btnSpacing.type",
+                      "y": "medium",
+                      "type": "EQ",
+                      "or": {
+                        "x": "styles.btnSpacing.type",
+                        "y": "large",
+                        "type": "EQ"
+                      }
+                    }
+                  }
+                },
+                {
+                  "name": "top",
+                  "action": "ADD",
+                  "value": "4px",
+                  "condition": {
+                    "x": "styles.btnSpacing.type",
+                    "y": "small",
+                    "type": "EQ"
+                  }
+                },
+                {
+                  "name": "bottom",
+                  "action": "ADD",
+                  "value": "4px",
+                  "condition": {
+                    "x": "styles.btnSpacing.type",
+                    "y": "small",
+                    "type": "EQ"
+                  }
+                },
+                {
+                  "name": "left",
+                  "action": "ADD",
+                  "value": "16px",
+                  "condition": {
+                    "x": "styles.btnSpacing.type",
+                    "y": "small",
+                    "type": "EQ"
+                  }
+                },
+                {
+                  "name": "right",
+                  "action": "ADD",
+                  "value": "16px",
+                  "condition": {
+                    "x": "styles.btnSpacing.type",
+                    "y": "small",
+                    "type": "EQ"
+                  }
+                },
+                {
+                  "name": "top",
+                  "action": "ADD",
+                  "value": "8px",
+                  "condition": {
+                    "x": "styles.btnSpacing.type",
+                    "y": "medium",
+                    "type": "EQ"
+                  }
+                },
+                {
+                  "name": "bottom",
+                  "action": "ADD",
+                  "value": "8px",
+                  "condition": {
+                    "x": "styles.btnSpacing.type",
+                    "y": "medium",
+                    "type": "EQ"
+                  }
+                },
+                {
+                  "name": "left",
+                  "action": "ADD",
+                  "value": "24px",
+                  "condition": {
+                    "x": "styles.btnSpacing.type",
+                    "y": "medium",
+                    "type": "EQ"
+                  }
+                },
+                {
+                  "name": "right",
+                  "action": "ADD",
+                  "value": "24px",
+                  "condition": {
+                    "x": "styles.btnSpacing.type",
+                    "y": "medium",
+                    "type": "EQ"
+                  }
+                },
+                {
+                  "name": "top",
+                  "action": "ADD",
+                  "value": "12px",
+                  "condition": {
+                    "x": "styles.btnSpacing.type",
+                    "y": "large",
+                    "type": "EQ"
+                  }
+                },
+                {
+                  "name": "bottom",
+                  "action": "ADD",
+                  "value": "12px",
+                  "condition": {
+                    "x": "styles.btnSpacing.type",
+                    "y": "large",
+                    "type": "EQ"
+                  }
+                },
+                {
+                  "name": "left",
+                  "action": "ADD",
+                  "value": "32px",
+                  "condition": {
+                    "x": "styles.btnSpacing.type",
+                    "y": "large",
+                    "type": "EQ"
+                  }
+                },
+                {
+                  "name": "right",
+                  "action": "ADD",
+                  "value": "32px",
+                  "condition": {
+                    "x": "styles.btnSpacing.type",
+                    "y": "large",
+                    "type": "EQ"
+                  }
+                },
+                {
+                  "name": "type",
+                  "action": "ADD",
+                  "value": "custom",
+                  "condition": {
+                    "x": "styles.btnSpacing.type",
+                    "y": "small",
+                    "type": "NEQ",
+                    "and": {
+                      "x": "styles.btnSpacing.type",
+                      "y": "medium",
+                      "type": "NEQ",
+                      "and": {
+                        "x": "styles.btnSpacing.type",
+                        "y": "large",
+                        "type": "NEQ"
+                      }
+                    }
+                  }
+                },
+                {
+                  "name": "top",
+                  "action": "ADD",
+                  "typeFrom": "styles",
+                  "valueFrom": "btnSpacing.custom.desktop.vertical",
+                  "condition": {
+                    "x": "styles.btnSpacing.type",
+                    "y": "small",
+                    "type": "NEQ",
+                    "and": {
+                      "x": "styles.btnSpacing.type",
+                      "y": "medium",
+                      "type": "NEQ",
+                      "and": {
+                        "x": "styles.btnSpacing.type",
+                        "y": "large",
+                        "type": "NEQ"
+                      }
+                    }
+                  }
+                },
+                {
+                  "name": "bottom",
+                  "action": "ADD",
+                  "typeFrom": "styles",
+                  "valueFrom": "btnSpacing.custom.desktop.vertical",
+                  "condition": {
+                    "x": "styles.btnSpacing.type",
+                    "y": "small",
+                    "type": "NEQ",
+                    "and": {
+                      "x": "styles.btnSpacing.type",
+                      "y": "medium",
+                      "type": "NEQ",
+                      "and": {
+                        "x": "styles.btnSpacing.type",
+                        "y": "large",
+                        "type": "NEQ"
+                      }
+                    }
+                  }
+                },
+                {
+                  "name": "left",
+                  "action": "ADD",
+                  "typeFrom": "styles",
+                  "valueFrom": "btnSpacing.custom.desktop.horizontal",
+                  "condition": {
+                    "x": "styles.btnSpacing.type",
+                    "y": "small",
+                    "type": "NEQ",
+                    "and": {
+                      "x": "styles.btnSpacing.type",
+                      "y": "medium",
+                      "type": "NEQ",
+                      "and": {
+                        "x": "styles.btnSpacing.type",
+                        "y": "large",
+                        "type": "NEQ"
+                      }
+                    }
+                  }
+                },
+                {
+                  "name": "right",
+                  "action": "ADD",
+                  "typeFrom": "styles",
+                  "valueFrom": "btnSpacing.custom.desktop.horizontal",
+                  "condition": {
+                    "x": "styles.btnSpacing.type",
+                    "y": "small",
+                    "type": "NEQ",
+                    "and": {
+                      "x": "styles.btnSpacing.type",
+                      "y": "medium",
+                      "type": "NEQ",
+                      "and": {
+                        "x": "styles.btnSpacing.type",
+                        "y": "large",
+                        "type": "NEQ"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "ThemeStyle": [
+    {
+      "name": "color",
+      "action": "UPDATE",
+      "newName": "color_rename",
+      "fields": [
+        {
+          "name": "highlight",
+          "action": "UPDATE",
+          "newName": "highlight_rename"
+        },
+        {
+          "name": "info",
+          "action": "REMOVE"
+        }
+      ]
+    }
+  ]
+}

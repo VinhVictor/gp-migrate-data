@@ -1,0 +1,75 @@
+{
+    "uid": "g0XjYDjGe7",
+    "tag": "ProductTitle",
+    "label": "Product Title",
+    "settings": {
+        "htmlTag": "h1",
+        "typo": {
+            "type": "subheading-3"
+        },
+        "textAlign": {
+            "desktop": "left"
+        },
+        "hasLineClamp": {
+            "desktop": false
+        },
+        "lineClamp": {
+            "desktop": 12
+        },
+        "color": {
+            "normal": "text-2"
+        },
+        "hasTextShadow": {
+            "normal": false,
+            "hover": false
+        },
+        "textShadow": {
+            "normal": {
+                "type": "shadow-1"
+            }
+        },
+        "linkProduct": false
+    },
+    "styles": {},
+    "advanced": {
+        "spacing-setting": {
+            "desktop": {
+                "margin": {
+                    "bottom": "var(--g-s-l)"
+                }
+            }
+        },
+        "d": {
+            "desktop": true,
+            "tablet": true,
+            "mobile": true
+        },
+        "border": {
+            "borderType": "none",
+            "border": "solid",
+            "borderWidth": "0px",
+            "width": "0px",
+            "color": "#121212",
+            "isCustom": true
+        },
+        "rounded": {
+            "btrr": "0px",
+            "bblr": "0px",
+            "bbrr": "0px",
+            "btlr": "0px",
+            "radiusType": "none"
+        },
+        "hasBoxShadow": false,
+        "boxShadow": {
+            "type": "shadow-1",
+            "distance": "4px",
+            "blur": "12px",
+            "spread": "0px",
+            "color": "rgba(0, 0, 0, 0.20)",
+            "angle": 90
+        },
+        "op": {
+            "desktop": "100%"
+        }
+    }
+}

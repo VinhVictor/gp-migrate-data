@@ -1,0 +1,52 @@
+{
+    "IconList": [
+      {
+        "name": "background",
+        "action": "ADD",
+        "type": "styles",
+        "typeFrom": "settings",
+        "valueFrom": "background"
+      },
+      {
+        "name": "background",
+        "action": "REMOVE",
+        "type": "settings"
+      },
+      {
+        "name": "horizontalSpacing",
+        "action": "ADD",
+        "type": "styles",
+        "typeFrom": "settings",
+        "valueFrom": "horizontalSpacing"
+      },
+      {
+        "name": "horizontalSpacing",
+        "action": "REMOVE",
+        "type": "settings"
+      },
+      {
+        "name": "verticalSpacing",
+        "action": "ADD",
+        "type": "styles",
+        "typeFrom": "settings",
+        "valueFrom": "verticalSpacing"
+      },
+      {
+        "name": "verticalSpacing",
+        "action": "REMOVE",
+        "type": "settings"
+      },
+      {
+        "name": "align",
+        "action": "ADD",
+        "type": "styles",
+        "typeFrom": "settings",
+        "valueFrom": "align"
+      },
+      {
+        "name": "align",
+        "action": "REMOVE",
+        "type": "settings"
+      }
+    ]
+  }

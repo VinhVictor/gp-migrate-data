@@ -1,0 +1,15 @@
+{
+  "x": "settings.background.desktop.image.height",
+  "y": 1,
+  "type": "LTE",
+  "and": {
+    "x": "settings.container",
+    "y": true,
+    "type": "EQ"
+  },
+  "or": {
+    "x": "settings.fullHeight.desktop",
+    "y": false,
+    "type": "EQ"
+  }
+}

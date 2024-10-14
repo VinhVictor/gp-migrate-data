@@ -1,0 +1,22 @@
+{
+  "uid": "gaEbJxKSet",
+  "tag": "Button",
+  "label": "Button",
+  "settings": {},
+  "styles": {
+    "fullWidth": {
+      "desktop": false
+    },
+    "globalSize": {
+      "desktop": {
+        "height": "Auto",
+        "width": "300px"
+      }
+    },
+    "width": {
+      "desktop": "300px"
+    }
+  },
+  "advanced": {},
+  "childrens": []
+}

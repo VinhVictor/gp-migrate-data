@@ -1,0 +1,3698 @@
+{
+  "advanced": {
+    "blockPadding": "base",
+    "border": {
+      "desktop": {
+        "normal": {
+          "border": "none",
+          "borderType": "none",
+          "borderWidth": "1px",
+          "color": "#121212",
+          "isCustom": true,
+          "width": "1px 1px 1px 1px"
+        }
+      }
+    },
+    "boxShadow": {
+      "desktop": {
+        "normal": {
+          "angle": 49,
+          "blur": "4px",
+          "color": "rgba(18, 18, 18, 0.7)",
+          "distance": "4px",
+          "spread": "4px",
+          "type": "shadow-1"
+        }
+      }
+    },
+    "d": { "desktop": true, "mobile": true, "tablet": true },
+    "hasBoxShadow": { "desktop": { "normal": false } },
+    "op": { "desktop": "100%" },
+    "rounded": {
+      "desktop": {
+        "normal": {
+          "bblr": "0px",
+          "bbrr": "0px",
+          "btlr": "0px",
+          "btrr": "0px",
+          "radiusType": "none"
+        }
+      }
+    },
+    "spacing-setting": {
+      "desktop": {
+        "padding": { "bottom": "var(--g-s-2xl)", "top": "var(--g-s-2xl)" }
+      }
+    }
+  },
+  "childrens": [
+    {
+      "advanced": {
+        "border": {
+          "desktop": {
+            "normal": {
+              "border": "none",
+              "borderType": "none",
+              "borderWidth": "1px",
+              "color": "#121212",
+              "isCustom": true,
+              "width": "1px 1px 1px 1px"
+            }
+          }
+        },
+        "boxShadow": {
+          "desktop": {
+            "normal": {
+              "angle": 49,
+              "blur": "4px",
+              "color": "rgba(18, 18, 18, 0.7)",
+              "distance": "4px",
+              "spread": "4px",
+              "type": "shadow-1"
+            }
+          }
+        },
+        "d": { "desktop": true, "mobile": true, "tablet": true },
+        "hasBoxShadow": { "desktop": { "normal": false } },
+        "op": { "desktop": "100%" },
+        "rounded": {
+          "desktop": {
+            "normal": {
+              "bblr": "0px",
+              "bbrr": "0px",
+              "btlr": "0px",
+              "btrr": "0px",
+              "radiusType": "none"
+            }
+          }
+        }
+      },
+      "childrens": [
+        {
+          "advanced": {
+            "border": {
+              "desktop": {
+                "normal": {
+                  "border": "none",
+                  "borderType": "none",
+                  "borderWidth": "1px",
+                  "color": "#121212",
+                  "isCustom": true,
+                  "width": "1px 1px 1px 1px"
+                }
+              }
+            },
+            "boxShadow": {
+              "desktop": {
+                "normal": {
+                  "angle": 49,
+                  "blur": "4px",
+                  "color": "rgba(18, 18, 18, 0.7)",
+                  "distance": "4px",
+                  "spread": "4px",
+                  "type": "shadow-1"
+                }
+              }
+            },
+            "d": { "desktop": true, "mobile": true, "tablet": true },
+            "hasBoxShadow": { "desktop": { "normal": false } },
+            "op": { "desktop": "100%" },
+            "rounded": {
+              "desktop": {
+                "normal": {
+                  "bblr": "0px",
+                  "bbrr": "0px",
+                  "btlr": "0px",
+                  "btrr": "0px",
+                  "radiusType": "none"
+                }
+              }
+            },
+            "spacing-setting": {
+              "desktop": { "margin": { "bottom": "var(--g-s-l)" } }
+            }
+          },
+          "childrens": [
+            {
+              "advanced": {
+                "border": {
+                  "desktop": {
+                    "normal": {
+                      "border": "none",
+                      "borderType": "none",
+                      "borderWidth": "1px",
+                      "color": "#121212",
+                      "isCustom": true,
+                      "width": "1px 1px 1px 1px"
+                    }
+                  }
+                },
+                "boxShadow": {
+                  "desktop": {
+                    "normal": {
+                      "angle": 49,
+                      "blur": "4px",
+                      "color": "rgba(18, 18, 18, 0.7)",
+                      "distance": "4px",
+                      "spread": "4px",
+                      "type": "shadow-1"
+                    }
+                  }
+                },
+                "d": { "desktop": true, "mobile": true, "tablet": true },
+                "hasBoxShadow": { "desktop": { "normal": false } },
+                "op": { "desktop": "100%" },
+                "rounded": {
+                  "desktop": {
+                    "normal": {
+                      "bblr": "0px",
+                      "bbrr": "0px",
+                      "btlr": "0px",
+                      "btrr": "0px",
+                      "radiusType": "none"
+                    }
+                  }
+                }
+              },
+              "childrens": [
+                {
+                  "advanced": {
+                    "border": {
+                      "desktop": {
+                        "normal": {
+                          "border": "none",
+                          "borderType": "none",
+                          "borderWidth": "1px",
+                          "color": "#121212",
+                          "isCustom": true,
+                          "width": "1px 1px 1px 1px"
+                        }
+                      }
+                    },
+                    "boxShadow": {
+                      "desktop": {
+                        "normal": {
+                          "angle": 49,
+                          "blur": "4px",
+                          "color": "rgba(18, 18, 18, 0.7)",
+                          "distance": "4px",
+                          "spread": "4px",
+                          "type": "shadow-1"
+                        }
+                      }
+                    },
+                    "d": { "desktop": true, "mobile": true, "tablet": true },
+                    "hasBoxShadow": { "desktop": { "normal": false } },
+                    "op": { "desktop": "100%" },
+                    "rounded": {
+                      "desktop": {
+                        "normal": {
+                          "bblr": "0px",
+                          "bbrr": "0px",
+                          "btlr": "0px",
+                          "btrr": "0px",
+                          "radiusType": "none"
+                        }
+                      }
+                    },
+                    "spacing-setting": {
+                      "desktop": { "margin": { "bottom": 0 } }
+                    }
+                  },
+                  "label": "Heading",
+                  "settings": {
+                    "background": {
+                      "desktop": {
+                        "attachment": "scroll",
+                        "color": "transparent",
+                        "image": { "height": 0, "src": "", "width": 0 },
+                        "position": { "x": 50, "y": 50 },
+                        "repeat": "no-repeat",
+                        "size": "cover",
+                        "type": "color"
+                      }
+                    },
+                    "globalSize": {
+                      "desktop": {
+                        "padding": { "type": "custom" },
+                        "width": "100%"
+                      }
+                    },
+                    "htmlTag": 2,
+                    "text": "Your heading text goes here",
+                    "translate": "text"
+                  },
+                  "styles": {
+                    "align": { "desktop": "left" },
+                    "textAlign": { "desktop": "left" },
+                    "typo": {
+                      "attrs": { "color": "text-2" },
+                      "type": "heading-1"
+                    }
+                  },
+                  "tag": "Heading",
+                  "uid": "gs2mhR-wCh"
+                },
+                {
+                  "advanced": {
+                    "border": {
+                      "desktop": {
+                        "normal": {
+                          "border": "none",
+                          "borderType": "none",
+                          "borderWidth": "1px",
+                          "color": "#121212",
+                          "isCustom": true,
+                          "width": "1px 1px 1px 1px"
+                        }
+                      }
+                    },
+                    "boxShadow": {
+                      "desktop": {
+                        "normal": {
+                          "angle": 49,
+                          "blur": "4px",
+                          "color": "rgba(18, 18, 18, 0.7)",
+                          "distance": "4px",
+                          "spread": "4px",
+                          "type": "shadow-1"
+                        }
+                      }
+                    },
+                    "d": { "desktop": true, "mobile": true, "tablet": true },
+                    "editorData": {
+                      "cssPlaceholder": ".{{rootClassName}} {\n\n}\n.{{rootClassName}} p {\n\n}"
+                    },
+                    "hasBoxShadow": { "desktop": { "normal": false } },
+                    "op": { "desktop": "100%" },
+                    "rounded": {
+                      "desktop": {
+                        "normal": {
+                          "bblr": "0px",
+                          "bbrr": "0px",
+                          "btlr": "0px",
+                          "btrr": "0px",
+                          "radiusType": "none"
+                        }
+                      }
+                    },
+                    "spacing-setting": {
+                      "desktop": { "margin": { "bottom": 0 } }
+                    }
+                  },
+                  "label": "Text Block",
+                  "settings": {
+                    "background": {
+                      "desktop": {
+                        "attachment": "scroll",
+                        "color": "transparent",
+                        "image": { "height": 0, "src": "", "width": 0 },
+                        "position": { "x": 50, "y": 50 },
+                        "repeat": "no-repeat",
+                        "size": "cover",
+                        "type": "color"
+                      }
+                    },
+                    "globalSize": {
+                      "desktop": {
+                        "padding": { "type": "custom" },
+                        "width": "100%"
+                      }
+                    },
+                    "htmlTag": "div",
+                    "text": "\u003cp\u003eRow 2 column - By radio\u003cbr\u003e\u003cstrong\u003eColumn\u003c/strong\u003e: 2 -- 2 -- 2\u003cbr\u003e\u003cstrong\u003eHorizontal\u003c/strong\u003e: Center/Left/Right\u003cbr\u003e\u003cstrong\u003eVertical\u003c/strong\u003e: Center/Top/bottom\u003cbr\u003e\u003cstrong\u003eColumn gap\u003c/strong\u003e: 40px/210px/20px\u003cbr\u003eFull Width:\u0026nbsp;On\u003cbr\u003eSection Full width\u003c/p\u003e",
+                    "translate": "text"
+                  },
+                  "styles": {
+                    "align": { "desktop": "left" },
+                    "hasLineClamp": { "desktop": false },
+                    "lineClamp": { "desktop": 1, "mobile": 1, "tablet": 1 },
+                    "textAlign": { "desktop": "left" },
+                    "typo": {
+                      "attrs": { "color": "text-1" },
+                      "type": "paragraph-1"
+                    }
+                  },
+                  "tag": "Text",
+                  "uid": "g6xFR8HTan"
+                },
+                {
+                  "advanced": {
+                    "border": {
+                      "desktop": {
+                        "normal": {
+                          "border": "none",
+                          "borderType": "none",
+                          "borderWidth": "1px",
+                          "color": "#121212",
+                          "isCustom": true,
+                          "width": "1px 1px 1px 1px"
+                        }
+                      }
+                    },
+                    "boxShadow": {
+                      "desktop": {
+                        "normal": {
+                          "angle": 49,
+                          "blur": "4px",
+                          "color": "rgba(18, 18, 18, 0.7)",
+                          "distance": "4px",
+                          "spread": "4px",
+                          "type": "shadow-1"
+                        }
+                      }
+                    },
+                    "d": { "desktop": true, "mobile": true, "tablet": true },
+                    "editorData": {
+                      "cssPlaceholder": "button.{{rootClassName}} {\n\n}"
+                    },
+                    "hasBoxShadow": { "desktop": { "normal": false } },
+                    "op": { "desktop": "100%" },
+                    "rounded": {
+                      "desktop": {
+                        "normal": {
+                          "bblr": "0px",
+                          "bbrr": "0px",
+                          "btlr": "0px",
+                          "btrr": "0px",
+                          "radiusType": "none"
+                        }
+                      }
+                    },
+                    "spacing-setting": {
+                      "desktop": { "margin": { "bottom": 0 } }
+                    }
+                  },
+                  "label": "Button",
+                  "settings": {
+                    "btnLink": { "link": "", "target": "_self" },
+                    "disabled": false,
+                    "htmlType": "button",
+                    "iconAlign": "left",
+                    "iconSvg": "\u003csvg style=\"width: 100%; height: 100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" fill=\"currentColor\"\u003e \u003cpath fill=\"currentColor\" strokeLinecap=\"round\" strokeLinejoin=\"round\" fill=\"currentColor\" d=\"M115.584 494.176c-12.352 6.336 -26.368 -4.768 -23.872 -18.944l26.56 -151.36L5.536 216.48c-10.528 -10.048 -5.056 -28.416 9.056 -30.4l156.736 -22.272L241.216 25.344c6.304 -12.48 23.36 -12.48 29.664 0l69.888 138.464 156.736 22.272c14.112 1.984 19.584 20.352 9.024 30.4l-112.704 107.392 26.56 151.36c2.496 14.176 -11.52 25.28 -23.872 18.944L256 421.984l-140.448 72.192z\" /\u003e\u003c/svg\u003e",
+                    "iconVisible": false,
+                    "label": "Button",
+                    "shouldClearSpace": false,
+                    "translate": "label"
+                  },
+                  "styles": {
+                    "align": { "desktop": "left" },
+                    "backgroundColor": {
+                      "hover": "highlight",
+                      "normal": "brand"
+                    },
+                    "borderBtn": {
+                      "normal": {
+                        "border": "none",
+                        "borderType": "none",
+                        "borderWidth": "1px",
+                        "isCustom": false,
+                        "width": "1px 1px 1px 1px"
+                      }
+                    },
+                    "boxShadowBtn": {
+                      "normal": {
+                        "angle": 90,
+                        "blur": "12px",
+                        "color": "rgba(0, 0, 0, 0.20)",
+                        "distance": "4px",
+                        "spread": "0px",
+                        "type": "shadow-1"
+                      }
+                    },
+                    "btnSpacing": { "type": "medium" },
+                    "fullWidth": { "desktop": false },
+                    "globalSize": {
+                      "desktop": {
+                        "height": "Auto",
+                        "padding": {
+                          "bottom": "8px",
+                          "left": "24px",
+                          "right": "24px",
+                          "top": "8px",
+                          "type": "medium"
+                        },
+                        "width": "Auto"
+                      }
+                    },
+                    "hasBoxShadowBtn": { "hover": false, "normal": false },
+                    "iconDimension": { "desktop": "24px" },
+                    "iconSizeAuto": true,
+                    "iconSpacing": { "desktop": "8px" },
+                    "roundedBtn": { "normal": { "radiusType": "small" } },
+                    "size": { "desktop": "1em" },
+                    "textColor": { "normal": "text-3" },
+                    "transform": "default",
+                    "typo": { "type": "paragraph-1" }
+                  },
+                  "tag": "Button",
+                  "uid": "g2Wdu6DfXs"
+                }
+              ],
+              "label": "Block",
+              "settings": {},
+              "styles": { "order": { "desktop": 1 } },
+              "tag": "Col",
+              "uid": "goODRj5S5Z"
+            },
+            {
+              "childrens": [
+                {
+                  "advanced": {
+                    "border": {
+                      "desktop": {
+                        "normal": {
+                          "border": "none",
+                          "borderType": "none",
+                          "borderWidth": "1px",
+                          "color": "#121212",
+                          "isCustom": true,
+                          "width": "1px 1px 1px 1px"
+                        }
+                      }
+                    },
+                    "boxShadow": {
+                      "desktop": {
+                        "normal": {
+                          "angle": 49,
+                          "blur": "4px",
+                          "color": "rgba(18, 18, 18, 0.7)",
+                          "distance": "4px",
+                          "spread": "4px",
+                          "type": "shadow-1"
+                        }
+                      }
+                    },
+                    "d": { "desktop": true, "mobile": true, "tablet": true },
+                    "hasBoxShadow": { "desktop": { "normal": false } },
+                    "op": { "desktop": "100%" },
+                    "rounded": {
+                      "desktop": {
+                        "normal": {
+                          "bblr": "0px",
+                          "bbrr": "0px",
+                          "btlr": "0px",
+                          "btrr": "0px",
+                          "radiusType": "none"
+                        }
+                      }
+                    },
+                    "spacing-setting": {
+                      "desktop": { "margin": { "bottom": 0 } }
+                    }
+                  },
+                  "childrens": [
+                    {
+                      "advanced": {
+                        "border": {
+                          "desktop": {
+                            "normal": {
+                              "border": "none",
+                              "borderType": "none",
+                              "borderWidth": "1px",
+                              "color": "#121212",
+                              "isCustom": true,
+                              "width": "1px 1px 1px 1px"
+                            }
+                          }
+                        },
+                        "boxShadow": {
+                          "desktop": {
+                            "normal": {
+                              "angle": 49,
+                              "blur": "4px",
+                              "color": "rgba(18, 18, 18, 0.7)",
+                              "distance": "4px",
+                              "spread": "4px",
+                              "type": "shadow-1"
+                            }
+                          }
+                        },
+                        "d": {
+                          "desktop": true,
+                          "mobile": true,
+                          "tablet": true
+                        },
+                        "hasBoxShadow": { "desktop": { "normal": false } },
+                        "op": { "desktop": "100%" },
+                        "rounded": {
+                          "desktop": {
+                            "normal": {
+                              "bblr": "0px",
+                              "bbrr": "0px",
+                              "btlr": "0px",
+                              "btrr": "0px",
+                              "radiusType": "none"
+                            }
+                          }
+                        }
+                      },
+                      "childrens": [
+                        {
+                          "advanced": {
+                            "border": {
+                              "desktop": {
+                                "normal": {
+                                  "border": "none",
+                                  "borderType": "none",
+                                  "borderWidth": "1px",
+                                  "color": "#121212",
+                                  "isCustom": true,
+                                  "width": "1px 1px 1px 1px"
+                                }
+                              }
+                            },
+                            "boxShadow": {
+                              "desktop": {
+                                "normal": {
+                                  "angle": 49,
+                                  "blur": "4px",
+                                  "color": "rgba(18, 18, 18, 0.7)",
+                                  "distance": "4px",
+                                  "spread": "4px",
+                                  "type": "shadow-1"
+                                }
+                              }
+                            },
+                            "d": {
+                              "desktop": true,
+                              "mobile": true,
+                              "tablet": true
+                            },
+                            "hasBoxShadow": { "desktop": { "normal": false } },
+                            "op": { "desktop": "100%" },
+                            "rounded": {
+                              "desktop": {
+                                "normal": {
+                                  "bblr": "0px",
+                                  "bbrr": "0px",
+                                  "btlr": "0px",
+                                  "btrr": "0px",
+                                  "radiusType": "none"
+                                }
+                              }
+                            }
+                          },
+                          "label": "Icon",
+                          "settings": {
+                            "iconLink": {
+                              "link": "",
+                              "target": "_self",
+                              "title": ""
+                            },
+                            "iconSvg": "\u003csvg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" fill=\"currentColor\" data-id=\"508414815326568800\" viewBox=\"0 0 256 256\"\u003e\u003cpath d=\"m234.29 114.85-45 38.83L203 211.75a16.4 16.4 0 0 1-24.5 17.82L128 198.49l-50.53 31.08A16.4 16.4 0 0 1 53 211.75l13.76-58.07-45-38.83A16.46 16.46 0 0 1 31.08 86l59-4.76 22.76-55.08a16.36 16.36 0 0 1 30.27 0l22.75 55.08 59 4.76a16.46 16.46 0 0 1 9.37 28.86Z\"/\u003e\u003c/svg\u003e"
+                          },
+                          "styles": {
+                            "align": { "desktop": "left" },
+                            "color": { "normal": "line-3" },
+                            "globalSize": {
+                              "desktop": {
+                                "isDropDownWidth": true,
+                                "padding": { "type": "custom" },
+                                "width": "16px"
+                              }
+                            },
+                            "iconBorder": {
+                              "normal": {
+                                "border": "none",
+                                "borderType": "none",
+                                "borderWidth": "1px",
+                                "color": "#000000",
+                                "isCustom": false,
+                                "width": "1px 1px 1px 1px"
+                              }
+                            },
+                            "iconRotate": 0,
+                            "iconRounded": {
+                              "hover": { "radiusType": "none" },
+                              "normal": { "radiusType": "none" }
+                            },
+                            "iconSpacing": { "type": "none" },
+                            "iconWidth": { "desktop": "20px" },
+                            "spin": false
+                          },
+                          "tag": "Icon",
+                          "uid": "geGM203ni7"
+                        }
+                      ],
+                      "label": "Icon List Item",
+                      "settings": {},
+                      "styles": {},
+                      "tag": "IconListItemHoz",
+                      "uid": "gmNwlZzC3E"
+                    },
+                    {
+                      "advanced": {
+                        "border": {
+                          "desktop": {
+                            "normal": {
+                              "border": "none",
+                              "borderType": "none",
+                              "borderWidth": "1px",
+                              "color": "#121212",
+                              "isCustom": true,
+                              "width": "1px 1px 1px 1px"
+                            }
+                          }
+                        },
+                        "boxShadow": {
+                          "desktop": {
+                            "normal": {
+                              "angle": 49,
+                              "blur": "4px",
+                              "color": "rgba(18, 18, 18, 0.7)",
+                              "distance": "4px",
+                              "spread": "4px",
+                              "type": "shadow-1"
+                            }
+                          }
+                        },
+                        "d": {
+                          "desktop": true,
+                          "mobile": true,
+                          "tablet": true
+                        },
+                        "hasBoxShadow": { "desktop": { "normal": false } },
+                        "op": { "desktop": "100%" },
+                        "rounded": {
+                          "desktop": {
+                            "normal": {
+                              "bblr": "0px",
+                              "bbrr": "0px",
+                              "btlr": "0px",
+                              "btrr": "0px",
+                              "radiusType": "none"
+                            }
+                          }
+                        }
+                      },
+                      "childrens": [
+                        {
+                          "advanced": {
+                            "border": {
+                              "desktop": {
+                                "normal": {
+                                  "border": "none",
+                                  "borderType": "none",
+                                  "borderWidth": "1px",
+                                  "color": "#121212",
+                                  "isCustom": true,
+                                  "width": "1px 1px 1px 1px"
+                                }
+                              }
+                            },
+                            "boxShadow": {
+                              "desktop": {
+                                "normal": {
+                                  "angle": 49,
+                                  "blur": "4px",
+                                  "color": "rgba(18, 18, 18, 0.7)",
+                                  "distance": "4px",
+                                  "spread": "4px",
+                                  "type": "shadow-1"
+                                }
+                              }
+                            },
+                            "d": {
+                              "desktop": true,
+                              "mobile": true,
+                              "tablet": true
+                            },
+                            "hasBoxShadow": { "desktop": { "normal": false } },
+                            "op": { "desktop": "100%" },
+                            "rounded": {
+                              "desktop": {
+                                "normal": {
+                                  "bblr": "0px",
+                                  "bbrr": "0px",
+                                  "btlr": "0px",
+                                  "btrr": "0px",
+                                  "radiusType": "none"
+                                }
+                              }
+                            }
+                          },
+                          "label": "Icon",
+                          "settings": {
+                            "iconLink": {
+                              "link": "",
+                              "target": "_self",
+                              "title": ""
+                            },
+                            "iconSvg": "\u003csvg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" fill=\"currentColor\" data-id=\"508414815326568800\" viewBox=\"0 0 256 256\"\u003e\u003cpath d=\"m234.29 114.85-45 38.83L203 211.75a16.4 16.4 0 0 1-24.5 17.82L128 198.49l-50.53 31.08A16.4 16.4 0 0 1 53 211.75l13.76-58.07-45-38.83A16.46 16.46 0 0 1 31.08 86l59-4.76 22.76-55.08a16.36 16.36 0 0 1 30.27 0l22.75 55.08 59 4.76a16.46 16.46 0 0 1 9.37 28.86Z\"/\u003e\u003c/svg\u003e"
+                          },
+                          "styles": {
+                            "align": { "desktop": "left" },
+                            "color": { "normal": "line-3" },
+                            "globalSize": {
+                              "desktop": {
+                                "isDropDownWidth": true,
+                                "padding": { "type": "custom" },
+                                "width": "16px"
+                              }
+                            },
+                            "iconBorder": {
+                              "normal": {
+                                "border": "none",
+                                "borderType": "none",
+                                "borderWidth": "1px",
+                                "color": "#000000",
+                                "isCustom": false,
+                                "width": "1px 1px 1px 1px"
+                              }
+                            },
+                            "iconRotate": 0,
+                            "iconRounded": {
+                              "hover": { "radiusType": "none" },
+                              "normal": { "radiusType": "none" }
+                            },
+                            "iconSpacing": { "type": "none" },
+                            "iconWidth": { "desktop": "20px" },
+                            "spin": false
+                          },
+                          "tag": "Icon",
+                          "uid": "gGQJn1A-xF"
+                        }
+                      ],
+                      "label": "Icon List Item",
+                      "settings": {},
+                      "styles": {},
+                      "tag": "IconListItemHoz",
+                      "uid": "gx37kzA0t9"
+                    },
+                    {
+                      "advanced": {
+                        "border": {
+                          "desktop": {
+                            "normal": {
+                              "border": "none",
+                              "borderType": "none",
+                              "borderWidth": "1px",
+                              "color": "#121212",
+                              "isCustom": true,
+                              "width": "1px 1px 1px 1px"
+                            }
+                          }
+                        },
+                        "boxShadow": {
+                          "desktop": {
+                            "normal": {
+                              "angle": 49,
+                              "blur": "4px",
+                              "color": "rgba(18, 18, 18, 0.7)",
+                              "distance": "4px",
+                              "spread": "4px",
+                              "type": "shadow-1"
+                            }
+                          }
+                        },
+                        "d": {
+                          "desktop": true,
+                          "mobile": true,
+                          "tablet": true
+                        },
+                        "hasBoxShadow": { "desktop": { "normal": false } },
+                        "op": { "desktop": "100%" },
+                        "rounded": {
+                          "desktop": {
+                            "normal": {
+                              "bblr": "0px",
+                              "bbrr": "0px",
+                              "btlr": "0px",
+                              "btrr": "0px",
+                              "radiusType": "none"
+                            }
+                          }
+                        }
+                      },
+                      "childrens": [
+                        {
+                          "advanced": {
+                            "border": {
+                              "desktop": {
+                                "normal": {
+                                  "border": "none",
+                                  "borderType": "none",
+                                  "borderWidth": "1px",
+                                  "color": "#121212",
+                                  "isCustom": true,
+                                  "width": "1px 1px 1px 1px"
+                                }
+                              }
+                            },
+                            "boxShadow": {
+                              "desktop": {
+                                "normal": {
+                                  "angle": 49,
+                                  "blur": "4px",
+                                  "color": "rgba(18, 18, 18, 0.7)",
+                                  "distance": "4px",
+                                  "spread": "4px",
+                                  "type": "shadow-1"
+                                }
+                              }
+                            },
+                            "d": {
+                              "desktop": true,
+                              "mobile": true,
+                              "tablet": true
+                            },
+                            "hasBoxShadow": { "desktop": { "normal": false } },
+                            "op": { "desktop": "100%" },
+                            "rounded": {
+                              "desktop": {
+                                "normal": {
+                                  "bblr": "0px",
+                                  "bbrr": "0px",
+                                  "btlr": "0px",
+                                  "btrr": "0px",
+                                  "radiusType": "none"
+                                }
+                              }
+                            }
+                          },
+                          "label": "Icon",
+                          "settings": {
+                            "iconLink": {
+                              "link": "",
+                              "target": "_self",
+                              "title": ""
+                            },
+                            "iconSvg": "\u003csvg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" fill=\"currentColor\" data-id=\"508414815326568800\" viewBox=\"0 0 256 256\"\u003e\u003cpath d=\"m234.29 114.85-45 38.83L203 211.75a16.4 16.4 0 0 1-24.5 17.82L128 198.49l-50.53 31.08A16.4 16.4 0 0 1 53 211.75l13.76-58.07-45-38.83A16.46 16.46 0 0 1 31.08 86l59-4.76 22.76-55.08a16.36 16.36 0 0 1 30.27 0l22.75 55.08 59 4.76a16.46 16.46 0 0 1 9.37 28.86Z\"/\u003e\u003c/svg\u003e"
+                          },
+                          "styles": {
+                            "align": { "desktop": "left" },
+                            "color": { "normal": "line-3" },
+                            "globalSize": {
+                              "desktop": {
+                                "isDropDownWidth": true,
+                                "padding": { "type": "custom" },
+                                "width": "16px"
+                              }
+                            },
+                            "iconBorder": {
+                              "normal": {
+                                "border": "none",
+                                "borderType": "none",
+                                "borderWidth": "1px",
+                                "color": "#000000",
+                                "isCustom": false,
+                                "width": "1px 1px 1px 1px"
+                              }
+                            },
+                            "iconRotate": 0,
+                            "iconRounded": {
+                              "hover": { "radiusType": "none" },
+                              "normal": { "radiusType": "none" }
+                            },
+                            "iconSpacing": { "type": "none" },
+                            "iconWidth": { "desktop": "20px" },
+                            "spin": false
+                          },
+                          "tag": "Icon",
+                          "uid": "gICwNyjphw"
+                        }
+                      ],
+                      "label": "Icon List Item",
+                      "settings": {},
+                      "styles": {},
+                      "tag": "IconListItemHoz",
+                      "uid": "g8IOU5rm3D"
+                    },
+                    {
+                      "advanced": {
+                        "border": {
+                          "desktop": {
+                            "normal": {
+                              "border": "none",
+                              "borderType": "none",
+                              "borderWidth": "1px",
+                              "color": "#121212",
+                              "isCustom": true,
+                              "width": "1px 1px 1px 1px"
+                            }
+                          }
+                        },
+                        "boxShadow": {
+                          "desktop": {
+                            "normal": {
+                              "angle": 49,
+                              "blur": "4px",
+                              "color": "rgba(18, 18, 18, 0.7)",
+                              "distance": "4px",
+                              "spread": "4px",
+                              "type": "shadow-1"
+                            }
+                          }
+                        },
+                        "d": {
+                          "desktop": true,
+                          "mobile": true,
+                          "tablet": true
+                        },
+                        "hasBoxShadow": { "desktop": { "normal": false } },
+                        "op": { "desktop": "100%" },
+                        "rounded": {
+                          "desktop": {
+                            "normal": {
+                              "bblr": "0px",
+                              "bbrr": "0px",
+                              "btlr": "0px",
+                              "btrr": "0px",
+                              "radiusType": "none"
+                            }
+                          }
+                        }
+                      },
+                      "childrens": [
+                        {
+                          "advanced": {
+                            "border": {
+                              "desktop": {
+                                "normal": {
+                                  "border": "none",
+                                  "borderType": "none",
+                                  "borderWidth": "1px",
+                                  "color": "#121212",
+                                  "isCustom": true,
+                                  "width": "1px 1px 1px 1px"
+                                }
+                              }
+                            },
+                            "boxShadow": {
+                              "desktop": {
+                                "normal": {
+                                  "angle": 49,
+                                  "blur": "4px",
+                                  "color": "rgba(18, 18, 18, 0.7)",
+                                  "distance": "4px",
+                                  "spread": "4px",
+                                  "type": "shadow-1"
+                                }
+                              }
+                            },
+                            "d": {
+                              "desktop": true,
+                              "mobile": true,
+                              "tablet": true
+                            },
+                            "hasBoxShadow": { "desktop": { "normal": false } },
+                            "op": { "desktop": "100%" },
+                            "rounded": {
+                              "desktop": {
+                                "normal": {
+                                  "bblr": "0px",
+                                  "bbrr": "0px",
+                                  "btlr": "0px",
+                                  "btrr": "0px",
+                                  "radiusType": "none"
+                                }
+                              }
+                            }
+                          },
+                          "label": "Icon",
+                          "settings": {
+                            "iconLink": {
+                              "link": "",
+                              "target": "_self",
+                              "title": ""
+                            },
+                            "iconSvg": "\u003csvg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" fill=\"currentColor\" data-id=\"508414815326568800\" viewBox=\"0 0 256 256\"\u003e\u003cpath d=\"m234.29 114.85-45 38.83L203 211.75a16.4 16.4 0 0 1-24.5 17.82L128 198.49l-50.53 31.08A16.4 16.4 0 0 1 53 211.75l13.76-58.07-45-38.83A16.46 16.46 0 0 1 31.08 86l59-4.76 22.76-55.08a16.36 16.36 0 0 1 30.27 0l22.75 55.08 59 4.76a16.46 16.46 0 0 1 9.37 28.86Z\"/\u003e\u003c/svg\u003e"
+                          },
+                          "styles": {
+                            "align": { "desktop": "left" },
+                            "color": { "normal": "line-3" },
+                            "globalSize": {
+                              "desktop": {
+                                "isDropDownWidth": true,
+                                "padding": { "type": "custom" },
+                                "width": "16px"
+                              }
+                            },
+                            "iconBorder": {
+                              "normal": {
+                                "border": "none",
+                                "borderType": "none",
+                                "borderWidth": "1px",
+                                "color": "#000000",
+                                "isCustom": false,
+                                "width": "1px 1px 1px 1px"
+                              }
+                            },
+                            "iconRotate": 0,
+                            "iconRounded": {
+                              "hover": { "radiusType": "none" },
+                              "normal": { "radiusType": "none" }
+                            },
+                            "iconSpacing": { "type": "none" },
+                            "iconWidth": { "desktop": "20px" },
+                            "spin": false
+                          },
+                          "tag": "Icon",
+                          "uid": "gezoHuhuil"
+                        }
+                      ],
+                      "label": "Icon List Item",
+                      "settings": {},
+                      "styles": {},
+                      "tag": "IconListItemHoz",
+                      "uid": "gddWMyAjN0"
+                    },
+                    {
+                      "advanced": {
+                        "border": {
+                          "desktop": {
+                            "normal": {
+                              "border": "none",
+                              "borderType": "none",
+                              "borderWidth": "1px",
+                              "color": "#121212",
+                              "isCustom": true,
+                              "width": "1px 1px 1px 1px"
+                            }
+                          }
+                        },
+                        "boxShadow": {
+                          "desktop": {
+                            "normal": {
+                              "angle": 49,
+                              "blur": "4px",
+                              "color": "rgba(18, 18, 18, 0.7)",
+                              "distance": "4px",
+                              "spread": "4px",
+                              "type": "shadow-1"
+                            }
+                          }
+                        },
+                        "d": {
+                          "desktop": true,
+                          "mobile": true,
+                          "tablet": true
+                        },
+                        "hasBoxShadow": { "desktop": { "normal": false } },
+                        "op": { "desktop": "100%" },
+                        "rounded": {
+                          "desktop": {
+                            "normal": {
+                              "bblr": "0px",
+                              "bbrr": "0px",
+                              "btlr": "0px",
+                              "btrr": "0px",
+                              "radiusType": "none"
+                            }
+                          }
+                        }
+                      },
+                      "childrens": [
+                        {
+                          "advanced": {
+                            "border": {
+                              "desktop": {
+                                "normal": {
+                                  "border": "none",
+                                  "borderType": "none",
+                                  "borderWidth": "1px",
+                                  "color": "#121212",
+                                  "isCustom": true,
+                                  "width": "1px 1px 1px 1px"
+                                }
+                              }
+                            },
+                            "boxShadow": {
+                              "desktop": {
+                                "normal": {
+                                  "angle": 49,
+                                  "blur": "4px",
+                                  "color": "rgba(18, 18, 18, 0.7)",
+                                  "distance": "4px",
+                                  "spread": "4px",
+                                  "type": "shadow-1"
+                                }
+                              }
+                            },
+                            "d": {
+                              "desktop": true,
+                              "mobile": true,
+                              "tablet": true
+                            },
+                            "hasBoxShadow": { "desktop": { "normal": false } },
+                            "op": { "desktop": "100%" },
+                            "rounded": {
+                              "desktop": {
+                                "normal": {
+                                  "bblr": "0px",
+                                  "bbrr": "0px",
+                                  "btlr": "0px",
+                                  "btrr": "0px",
+                                  "radiusType": "none"
+                                }
+                              }
+                            }
+                          },
+                          "label": "Icon",
+                          "settings": {
+                            "iconLink": {
+                              "link": "",
+                              "target": "_self",
+                              "title": ""
+                            },
+                            "iconSvg": "\u003csvg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" fill=\"currentColor\" data-id=\"508414815326765440\" viewBox=\"0 0 256 256\"\u003e\u003cpath d=\"M239.18 97.26A16.38 16.38 0 0 0 224.92 86l-59-4.76-22.78-55.09a16.36 16.36 0 0 0-30.27 0L90.11 81.23 31.08 86a16.46 16.46 0 0 0-9.37 28.86l45 38.83L53 211.75a16.4 16.4 0 0 0 24.5 17.82l50.5-31.08 50.53 31.08A16.4 16.4 0 0 0 203 211.75l-13.76-58.07 45-38.83a16.43 16.43 0 0 0 4.94-17.59Zm-15.34 5.47-48.7 42a8 8 0 0 0-2.56 7.91l14.88 62.8a.37.37 0 0 1-.17.48c-.18.14-.23.11-.38 0l-54.72-33.65a8 8 0 0 0-4.19-1.17V32c.24 0 .27.08.35.26L153 91.86a8 8 0 0 0 6.75 4.92l63.91 5.16c.16 0 .25 0 .34.29s0 .4-.16.5Z\"/\u003e\u003c/svg\u003e"
+                          },
+                          "styles": {
+                            "align": { "desktop": "left" },
+                            "color": { "normal": "line-3" },
+                            "globalSize": {
+                              "desktop": {
+                                "isDropDownWidth": true,
+                                "padding": { "type": "custom" },
+                                "width": "16px"
+                              }
+                            },
+                            "iconBorder": {
+                              "normal": {
+                                "border": "none",
+                                "borderType": "none",
+                                "borderWidth": "1px",
+                                "color": "#000000",
+                                "isCustom": false,
+                                "width": "1px 1px 1px 1px"
+                              }
+                            },
+                            "iconRotate": 0,
+                            "iconRounded": {
+                              "hover": { "radiusType": "none" },
+                              "normal": { "radiusType": "none" }
+                            },
+                            "iconSpacing": { "type": "none" },
+                            "iconWidth": { "desktop": "20px" },
+                            "spin": false
+                          },
+                          "tag": "Icon",
+                          "uid": "gWF3onW0aE"
+                        }
+                      ],
+                      "label": "Icon List Item",
+                      "settings": {},
+                      "styles": {},
+                      "tag": "IconListItemHoz",
+                      "uid": "gmDuRblF5l"
+                    }
+                  ],
+                  "label": "Icon List",
+                  "settings": {
+                    "childItem": [
+                      "Icon 1",
+                      "Icon 2",
+                      "Icon 3",
+                      "Icon 4",
+                      "Icon 5"
+                    ],
+                    "preload": false
+                  },
+                  "styles": {
+                    "align": { "desktop": "left" },
+                    "background": {
+                      "desktop": {
+                        "attachment": "scroll",
+                        "color": "transparent",
+                        "image": { "height": 0, "src": "", "width": 0 },
+                        "position": { "x": 50, "y": 50 },
+                        "repeat": "no-repeat",
+                        "size": "cover",
+                        "type": "color"
+                      }
+                    },
+                    "horizontalSpacing": "4px",
+                    "verticalAlign": { "desktop": "start" }
+                  },
+                  "tag": "IconListHoz",
+                  "uid": "gQtsjlABOx"
+                }
+              ],
+              "label": "Block",
+              "settings": {},
+              "styles": { "order": { "desktop": 0 } },
+              "tag": "Col",
+              "uid": "g3t7MP9que"
+            }
+          ],
+          "label": "Row",
+          "settings": {
+            "blockAlignment": "start",
+            "horizontalAlign": {
+              "desktop": "center",
+              "mobile": "end",
+              "tablet": "start"
+            },
+            "inlineAlignment": "start",
+            "layout": {
+              "desktop": {
+                "cols": [6, 6],
+                "colsOrder": ["gmec7vLNGO", "gwc6m0Ihap"],
+                "display": "fill"
+              },
+              "mobile": { "cols": [6, 6], "display": "fill" }
+            },
+            "verticalAlign": {
+              "desktop": "center",
+              "mobile": "end",
+              "tablet": "start"
+            }
+          },
+          "styles": {
+            "background": {
+              "desktop": {
+                "attachment": "scroll",
+                "color": "transparent",
+                "image": { "height": 0, "src": "", "width": 0 },
+                "position": { "x": 50, "y": 50 },
+                "repeat": "no-repeat",
+                "size": "cover",
+                "type": "color"
+              }
+            },
+            "columnGap": { "desktop": "1%" },
+            "preloadBgImage": false,
+            "verticalGutter": {
+              "desktop": "40px",
+              "mobile": "20px",
+              "tablet": "210px"
+            },
+            "width": { "desktop": "100%" }
+          },
+          "tag": "Row",
+          "uid": "gfEBn5Yedw"
+        },
+        {
+          "advanced": {
+            "border": {
+              "desktop": {
+                "normal": {
+                  "border": "none",
+                  "borderType": "none",
+                  "borderWidth": "1px",
+                  "color": "#121212",
+                  "isCustom": true,
+                  "width": "1px 1px 1px 1px"
+                }
+              }
+            },
+            "boxShadow": {
+              "desktop": {
+                "normal": {
+                  "angle": 49,
+                  "blur": "4px",
+                  "color": "rgba(18, 18, 18, 0.7)",
+                  "distance": "4px",
+                  "spread": "4px",
+                  "type": "shadow-1"
+                }
+              }
+            },
+            "d": { "desktop": true, "mobile": true, "tablet": true },
+            "hasBoxShadow": { "desktop": { "normal": false } },
+            "op": { "desktop": "100%" },
+            "rounded": {
+              "desktop": {
+                "normal": {
+                  "bblr": "0px",
+                  "bbrr": "0px",
+                  "btlr": "0px",
+                  "btrr": "0px",
+                  "radiusType": "none"
+                }
+              }
+            },
+            "spacing-setting": {
+              "desktop": { "margin": { "bottom": "var(--g-s-l)" } }
+            }
+          },
+          "childrens": [
+            {
+              "advanced": {
+                "border": {
+                  "desktop": {
+                    "normal": {
+                      "border": "none",
+                      "borderType": "none",
+                      "borderWidth": "1px",
+                      "color": "#121212",
+                      "isCustom": true,
+                      "width": "1px 1px 1px 1px"
+                    }
+                  }
+                },
+                "boxShadow": {
+                  "desktop": {
+                    "normal": {
+                      "angle": 49,
+                      "blur": "4px",
+                      "color": "rgba(18, 18, 18, 0.7)",
+                      "distance": "4px",
+                      "spread": "4px",
+                      "type": "shadow-1"
+                    }
+                  }
+                },
+                "d": { "desktop": true, "mobile": true, "tablet": true },
+                "hasBoxShadow": { "desktop": { "normal": false } },
+                "op": { "desktop": "100%" },
+                "rounded": {
+                  "desktop": {
+                    "normal": {
+                      "bblr": "0px",
+                      "bbrr": "0px",
+                      "btlr": "0px",
+                      "btrr": "0px",
+                      "radiusType": "none"
+                    }
+                  }
+                }
+              },
+              "childrens": [
+                {
+                  "advanced": {
+                    "border": {
+                      "desktop": {
+                        "normal": {
+                          "border": "none",
+                          "borderType": "none",
+                          "borderWidth": "1px",
+                          "color": "#121212",
+                          "isCustom": true,
+                          "width": "1px 1px 1px 1px"
+                        }
+                      }
+                    },
+                    "boxShadow": {
+                      "desktop": {
+                        "normal": {
+                          "angle": 49,
+                          "blur": "4px",
+                          "color": "rgba(18, 18, 18, 0.7)",
+                          "distance": "4px",
+                          "spread": "4px",
+                          "type": "shadow-1"
+                        }
+                      }
+                    },
+                    "d": { "desktop": true, "mobile": true, "tablet": true },
+                    "hasBoxShadow": { "desktop": { "normal": false } },
+                    "op": { "desktop": "100%" },
+                    "rounded": {
+                      "desktop": {
+                        "normal": {
+                          "bblr": "0px",
+                          "bbrr": "0px",
+                          "btlr": "0px",
+                          "btrr": "0px",
+                          "radiusType": "none"
+                        }
+                      }
+                    },
+                    "spacing-setting": {
+                      "desktop": { "margin": { "bottom": 0 } }
+                    }
+                  },
+                  "label": "Heading",
+                  "settings": {
+                    "background": {
+                      "desktop": {
+                        "attachment": "scroll",
+                        "color": "transparent",
+                        "image": { "height": 0, "src": "", "width": 0 },
+                        "position": { "x": 50, "y": 50 },
+                        "repeat": "no-repeat",
+                        "size": "cover",
+                        "type": "color"
+                      }
+                    },
+                    "globalSize": {
+                      "desktop": {
+                        "padding": { "type": "custom" },
+                        "width": "100%"
+                      }
+                    },
+                    "htmlTag": 2,
+                    "text": "Your heading text goes here",
+                    "translate": "text"
+                  },
+                  "styles": {
+                    "align": { "desktop": "left" },
+                    "textAlign": { "desktop": "left" },
+                    "typo": {
+                      "attrs": { "color": "text-2" },
+                      "type": "heading-1"
+                    }
+                  },
+                  "tag": "Heading",
+                  "uid": "gT_a7qJuWs"
+                },
+                {
+                  "advanced": {
+                    "border": {
+                      "desktop": {
+                        "normal": {
+                          "border": "none",
+                          "borderType": "none",
+                          "borderWidth": "1px",
+                          "color": "#121212",
+                          "isCustom": true,
+                          "width": "1px 1px 1px 1px"
+                        }
+                      }
+                    },
+                    "boxShadow": {
+                      "desktop": {
+                        "normal": {
+                          "angle": 49,
+                          "blur": "4px",
+                          "color": "rgba(18, 18, 18, 0.7)",
+                          "distance": "4px",
+                          "spread": "4px",
+                          "type": "shadow-1"
+                        }
+                      }
+                    },
+                    "d": { "desktop": true, "mobile": true, "tablet": true },
+                    "editorData": {
+                      "cssPlaceholder": ".{{rootClassName}} {\n\n}\n.{{rootClassName}} p {\n\n}"
+                    },
+                    "hasBoxShadow": { "desktop": { "normal": false } },
+                    "op": { "desktop": "100%" },
+                    "rounded": {
+                      "desktop": {
+                        "normal": {
+                          "bblr": "0px",
+                          "bbrr": "0px",
+                          "btlr": "0px",
+                          "btrr": "0px",
+                          "radiusType": "none"
+                        }
+                      }
+                    },
+                    "spacing-setting": {
+                      "desktop": { "margin": { "bottom": 0 } }
+                    }
+                  },
+                  "label": "Text Block",
+                  "settings": {
+                    "background": {
+                      "desktop": {
+                        "attachment": "scroll",
+                        "color": "transparent",
+                        "image": { "height": 0, "src": "", "width": 0 },
+                        "position": { "x": 50, "y": 50 },
+                        "repeat": "no-repeat",
+                        "size": "cover",
+                        "type": "color"
+                      }
+                    },
+                    "globalSize": {
+                      "desktop": {
+                        "padding": { "type": "custom" },
+                        "width": "100%"
+                      }
+                    },
+                    "htmlTag": "div",
+                    "text": "\u003cp\u003eRow 2 column - By radio\u003cbr\u003e\u003cstrong\u003eColumn\u003c/strong\u003e: 2 -- 2 -- 1\u003cbr\u003e\u003cstrong\u003eHorizontal\u003c/strong\u003e: Left/Center/Right\u003cbr\u003e\u003cstrong\u003eVertical\u003c/strong\u003e: Top/bottom/không có\u003cbr\u003e\u003cstrong\u003eColumn gap:\u003c/strong\u003e 200px/50px/không có\u003cbr\u003eSection Full width\u003c/p\u003e",
+                    "translate": "text"
+                  },
+                  "styles": {
+                    "align": { "desktop": "left" },
+                    "hasLineClamp": { "desktop": false },
+                    "lineClamp": { "desktop": 1, "mobile": 1, "tablet": 1 },
+                    "textAlign": { "desktop": "left" },
+                    "typo": {
+                      "attrs": { "color": "text-1" },
+                      "type": "paragraph-1"
+                    }
+                  },
+                  "tag": "Text",
+                  "uid": "gzOr3HbRyb"
+                },
+                {
+                  "advanced": {
+                    "border": {
+                      "desktop": {
+                        "normal": {
+                          "border": "none",
+                          "borderType": "none",
+                          "borderWidth": "1px",
+                          "color": "#121212",
+                          "isCustom": true,
+                          "width": "1px 1px 1px 1px"
+                        }
+                      }
+                    },
+                    "boxShadow": {
+                      "desktop": {
+                        "normal": {
+                          "angle": 49,
+                          "blur": "4px",
+                          "color": "rgba(18, 18, 18, 0.7)",
+                          "distance": "4px",
+                          "spread": "4px",
+                          "type": "shadow-1"
+                        }
+                      }
+                    },
+                    "d": { "desktop": true, "mobile": true, "tablet": true },
+                    "editorData": {
+                      "cssPlaceholder": "button.{{rootClassName}} {\n\n}"
+                    },
+                    "hasBoxShadow": { "desktop": { "normal": false } },
+                    "op": { "desktop": "100%" },
+                    "rounded": {
+                      "desktop": {
+                        "normal": {
+                          "bblr": "0px",
+                          "bbrr": "0px",
+                          "btlr": "0px",
+                          "btrr": "0px",
+                          "radiusType": "none"
+                        }
+                      }
+                    },
+                    "spacing-setting": {
+                      "desktop": { "margin": { "bottom": 0 } }
+                    }
+                  },
+                  "label": "Button",
+                  "settings": {
+                    "btnLink": { "link": "", "target": "_self" },
+                    "disabled": false,
+                    "htmlType": "button",
+                    "iconAlign": "left",
+                    "iconSvg": "\u003csvg style=\"width: 100%; height: 100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" fill=\"currentColor\"\u003e \u003cpath fill=\"currentColor\" strokeLinecap=\"round\" strokeLinejoin=\"round\" fill=\"currentColor\" d=\"M115.584 494.176c-12.352 6.336 -26.368 -4.768 -23.872 -18.944l26.56 -151.36L5.536 216.48c-10.528 -10.048 -5.056 -28.416 9.056 -30.4l156.736 -22.272L241.216 25.344c6.304 -12.48 23.36 -12.48 29.664 0l69.888 138.464 156.736 22.272c14.112 1.984 19.584 20.352 9.024 30.4l-112.704 107.392 26.56 151.36c2.496 14.176 -11.52 25.28 -23.872 18.944L256 421.984l-140.448 72.192z\" /\u003e\u003c/svg\u003e",
+                    "iconVisible": false,
+                    "label": "Button",
+                    "shouldClearSpace": false,
+                    "translate": "label"
+                  },
+                  "styles": {
+                    "align": { "desktop": "left" },
+                    "backgroundColor": {
+                      "hover": "highlight",
+                      "normal": "brand"
+                    },
+                    "borderBtn": {
+                      "normal": {
+                        "border": "none",
+                        "borderType": "none",
+                        "borderWidth": "1px",
+                        "isCustom": false,
+                        "width": "1px 1px 1px 1px"
+                      }
+                    },
+                    "boxShadowBtn": {
+                      "normal": {
+                        "angle": 90,
+                        "blur": "12px",
+                        "color": "rgba(0, 0, 0, 0.20)",
+                        "distance": "4px",
+                        "spread": "0px",
+                        "type": "shadow-1"
+                      }
+                    },
+                    "btnSpacing": { "type": "medium" },
+                    "fullWidth": { "desktop": false },
+                    "globalSize": {
+                      "desktop": {
+                        "height": "Auto",
+                        "padding": {
+                          "bottom": "8px",
+                          "left": "24px",
+                          "right": "24px",
+                          "top": "8px",
+                          "type": "medium"
+                        },
+                        "width": "Auto"
+                      }
+                    },
+                    "hasBoxShadowBtn": { "hover": false, "normal": false },
+                    "iconDimension": { "desktop": "24px" },
+                    "iconSizeAuto": true,
+                    "iconSpacing": { "desktop": "8px" },
+                    "roundedBtn": { "normal": { "radiusType": "small" } },
+                    "size": { "desktop": "1em" },
+                    "textColor": { "normal": "text-3" },
+                    "transform": "default",
+                    "typo": { "type": "paragraph-1" }
+                  },
+                  "tag": "Button",
+                  "uid": "gycc7pSKlD"
+                }
+              ],
+              "label": "Block",
+              "settings": {},
+              "styles": { "order": { "desktop": 1 } },
+              "tag": "Col",
+              "uid": "gNDXHJO5O-"
+            },
+            {
+              "childrens": [
+                {
+                  "advanced": {
+                    "border": {
+                      "desktop": {
+                        "normal": {
+                          "border": "none",
+                          "borderType": "none",
+                          "borderWidth": "1px",
+                          "color": "#121212",
+                          "isCustom": true,
+                          "width": "1px 1px 1px 1px"
+                        }
+                      }
+                    },
+                    "boxShadow": {
+                      "desktop": {
+                        "normal": {
+                          "angle": 49,
+                          "blur": "4px",
+                          "color": "rgba(18, 18, 18, 0.7)",
+                          "distance": "4px",
+                          "spread": "4px",
+                          "type": "shadow-1"
+                        }
+                      }
+                    },
+                    "d": { "desktop": true, "mobile": true, "tablet": true },
+                    "hasBoxShadow": { "desktop": { "normal": false } },
+                    "op": { "desktop": "100%" },
+                    "rounded": {
+                      "desktop": {
+                        "normal": {
+                          "bblr": "0px",
+                          "bbrr": "0px",
+                          "btlr": "0px",
+                          "btrr": "0px",
+                          "radiusType": "none"
+                        }
+                      }
+                    },
+                    "spacing-setting": {
+                      "desktop": { "margin": { "bottom": 0 } }
+                    }
+                  },
+                  "childrens": [
+                    {
+                      "advanced": {
+                        "border": {
+                          "desktop": {
+                            "normal": {
+                              "border": "none",
+                              "borderType": "none",
+                              "borderWidth": "1px",
+                              "color": "#121212",
+                              "isCustom": true,
+                              "width": "1px 1px 1px 1px"
+                            }
+                          }
+                        },
+                        "boxShadow": {
+                          "desktop": {
+                            "normal": {
+                              "angle": 49,
+                              "blur": "4px",
+                              "color": "rgba(18, 18, 18, 0.7)",
+                              "distance": "4px",
+                              "spread": "4px",
+                              "type": "shadow-1"
+                            }
+                          }
+                        },
+                        "d": {
+                          "desktop": true,
+                          "mobile": true,
+                          "tablet": true
+                        },
+                        "hasBoxShadow": { "desktop": { "normal": false } },
+                        "op": { "desktop": "100%" },
+                        "rounded": {
+                          "desktop": {
+                            "normal": {
+                              "bblr": "0px",
+                              "bbrr": "0px",
+                              "btlr": "0px",
+                              "btrr": "0px",
+                              "radiusType": "none"
+                            }
+                          }
+                        }
+                      },
+                      "childrens": [
+                        {
+                          "advanced": {
+                            "border": {
+                              "desktop": {
+                                "normal": {
+                                  "border": "none",
+                                  "borderType": "none",
+                                  "borderWidth": "1px",
+                                  "color": "#121212",
+                                  "isCustom": true,
+                                  "width": "1px 1px 1px 1px"
+                                }
+                              }
+                            },
+                            "boxShadow": {
+                              "desktop": {
+                                "normal": {
+                                  "angle": 49,
+                                  "blur": "4px",
+                                  "color": "rgba(18, 18, 18, 0.7)",
+                                  "distance": "4px",
+                                  "spread": "4px",
+                                  "type": "shadow-1"
+                                }
+                              }
+                            },
+                            "d": {
+                              "desktop": true,
+                              "mobile": true,
+                              "tablet": true
+                            },
+                            "hasBoxShadow": { "desktop": { "normal": false } },
+                            "op": { "desktop": "100%" },
+                            "rounded": {
+                              "desktop": {
+                                "normal": {
+                                  "bblr": "0px",
+                                  "bbrr": "0px",
+                                  "btlr": "0px",
+                                  "btrr": "0px",
+                                  "radiusType": "none"
+                                }
+                              }
+                            }
+                          },
+                          "label": "Icon",
+                          "settings": {
+                            "iconLink": {
+                              "link": "",
+                              "target": "_self",
+                              "title": ""
+                            },
+                            "iconSvg": "\u003csvg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" fill=\"currentColor\" data-id=\"508414815326568800\" viewBox=\"0 0 256 256\"\u003e\u003cpath d=\"m234.29 114.85-45 38.83L203 211.75a16.4 16.4 0 0 1-24.5 17.82L128 198.49l-50.53 31.08A16.4 16.4 0 0 1 53 211.75l13.76-58.07-45-38.83A16.46 16.46 0 0 1 31.08 86l59-4.76 22.76-55.08a16.36 16.36 0 0 1 30.27 0l22.75 55.08 59 4.76a16.46 16.46 0 0 1 9.37 28.86Z\"/\u003e\u003c/svg\u003e"
+                          },
+                          "styles": {
+                            "align": { "desktop": "left" },
+                            "color": { "normal": "line-3" },
+                            "globalSize": {
+                              "desktop": {
+                                "isDropDownWidth": true,
+                                "padding": { "type": "custom" },
+                                "width": "16px"
+                              }
+                            },
+                            "iconBorder": {
+                              "normal": {
+                                "border": "none",
+                                "borderType": "none",
+                                "borderWidth": "1px",
+                                "color": "#000000",
+                                "isCustom": false,
+                                "width": "1px 1px 1px 1px"
+                              }
+                            },
+                            "iconRotate": 0,
+                            "iconRounded": {
+                              "hover": { "radiusType": "none" },
+                              "normal": { "radiusType": "none" }
+                            },
+                            "iconSpacing": { "type": "none" },
+                            "iconWidth": { "desktop": "20px" },
+                            "spin": false
+                          },
+                          "tag": "Icon",
+                          "uid": "g8GDKaMCAK"
+                        }
+                      ],
+                      "label": "Icon List Item",
+                      "settings": {},
+                      "styles": {},
+                      "tag": "IconListItemHoz",
+                      "uid": "gKGrSKkN8A"
+                    },
+                    {
+                      "advanced": {
+                        "border": {
+                          "desktop": {
+                            "normal": {
+                              "border": "none",
+                              "borderType": "none",
+                              "borderWidth": "1px",
+                              "color": "#121212",
+                              "isCustom": true,
+                              "width": "1px 1px 1px 1px"
+                            }
+                          }
+                        },
+                        "boxShadow": {
+                          "desktop": {
+                            "normal": {
+                              "angle": 49,
+                              "blur": "4px",
+                              "color": "rgba(18, 18, 18, 0.7)",
+                              "distance": "4px",
+                              "spread": "4px",
+                              "type": "shadow-1"
+                            }
+                          }
+                        },
+                        "d": {
+                          "desktop": true,
+                          "mobile": true,
+                          "tablet": true
+                        },
+                        "hasBoxShadow": { "desktop": { "normal": false } },
+                        "op": { "desktop": "100%" },
+                        "rounded": {
+                          "desktop": {
+                            "normal": {
+                              "bblr": "0px",
+                              "bbrr": "0px",
+                              "btlr": "0px",
+                              "btrr": "0px",
+                              "radiusType": "none"
+                            }
+                          }
+                        }
+                      },
+                      "childrens": [
+                        {
+                          "advanced": {
+                            "border": {
+                              "desktop": {
+                                "normal": {
+                                  "border": "none",
+                                  "borderType": "none",
+                                  "borderWidth": "1px",
+                                  "color": "#121212",
+                                  "isCustom": true,
+                                  "width": "1px 1px 1px 1px"
+                                }
+                              }
+                            },
+                            "boxShadow": {
+                              "desktop": {
+                                "normal": {
+                                  "angle": 49,
+                                  "blur": "4px",
+                                  "color": "rgba(18, 18, 18, 0.7)",
+                                  "distance": "4px",
+                                  "spread": "4px",
+                                  "type": "shadow-1"
+                                }
+                              }
+                            },
+                            "d": {
+                              "desktop": true,
+                              "mobile": true,
+                              "tablet": true
+                            },
+                            "hasBoxShadow": { "desktop": { "normal": false } },
+                            "op": { "desktop": "100%" },
+                            "rounded": {
+                              "desktop": {
+                                "normal": {
+                                  "bblr": "0px",
+                                  "bbrr": "0px",
+                                  "btlr": "0px",
+                                  "btrr": "0px",
+                                  "radiusType": "none"
+                                }
+                              }
+                            }
+                          },
+                          "label": "Icon",
+                          "settings": {
+                            "iconLink": {
+                              "link": "",
+                              "target": "_self",
+                              "title": ""
+                            },
+                            "iconSvg": "\u003csvg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" fill=\"currentColor\" data-id=\"508414815326568800\" viewBox=\"0 0 256 256\"\u003e\u003cpath d=\"m234.29 114.85-45 38.83L203 211.75a16.4 16.4 0 0 1-24.5 17.82L128 198.49l-50.53 31.08A16.4 16.4 0 0 1 53 211.75l13.76-58.07-45-38.83A16.46 16.46 0 0 1 31.08 86l59-4.76 22.76-55.08a16.36 16.36 0 0 1 30.27 0l22.75 55.08 59 4.76a16.46 16.46 0 0 1 9.37 28.86Z\"/\u003e\u003c/svg\u003e"
+                          },
+                          "styles": {
+                            "align": { "desktop": "left" },
+                            "color": { "normal": "line-3" },
+                            "globalSize": {
+                              "desktop": {
+                                "isDropDownWidth": true,
+                                "padding": { "type": "custom" },
+                                "width": "16px"
+                              }
+                            },
+                            "iconBorder": {
+                              "normal": {
+                                "border": "none",
+                                "borderType": "none",
+                                "borderWidth": "1px",
+                                "color": "#000000",
+                                "isCustom": false,
+                                "width": "1px 1px 1px 1px"
+                              }
+                            },
+                            "iconRotate": 0,
+                            "iconRounded": {
+                              "hover": { "radiusType": "none" },
+                              "normal": { "radiusType": "none" }
+                            },
+                            "iconSpacing": { "type": "none" },
+                            "iconWidth": { "desktop": "20px" },
+                            "spin": false
+                          },
+                          "tag": "Icon",
+                          "uid": "gBuI9UfxIA"
+                        }
+                      ],
+                      "label": "Icon List Item",
+                      "settings": {},
+                      "styles": {},
+                      "tag": "IconListItemHoz",
+                      "uid": "gSDbsNDEVT"
+                    },
+                    {
+                      "advanced": {
+                        "border": {
+                          "desktop": {
+                            "normal": {
+                              "border": "none",
+                              "borderType": "none",
+                              "borderWidth": "1px",
+                              "color": "#121212",
+                              "isCustom": true,
+                              "width": "1px 1px 1px 1px"
+                            }
+                          }
+                        },
+                        "boxShadow": {
+                          "desktop": {
+                            "normal": {
+                              "angle": 49,
+                              "blur": "4px",
+                              "color": "rgba(18, 18, 18, 0.7)",
+                              "distance": "4px",
+                              "spread": "4px",
+                              "type": "shadow-1"
+                            }
+                          }
+                        },
+                        "d": {
+                          "desktop": true,
+                          "mobile": true,
+                          "tablet": true
+                        },
+                        "hasBoxShadow": { "desktop": { "normal": false } },
+                        "op": { "desktop": "100%" },
+                        "rounded": {
+                          "desktop": {
+                            "normal": {
+                              "bblr": "0px",
+                              "bbrr": "0px",
+                              "btlr": "0px",
+                              "btrr": "0px",
+                              "radiusType": "none"
+                            }
+                          }
+                        }
+                      },
+                      "childrens": [
+                        {
+                          "advanced": {
+                            "border": {
+                              "desktop": {
+                                "normal": {
+                                  "border": "none",
+                                  "borderType": "none",
+                                  "borderWidth": "1px",
+                                  "color": "#121212",
+                                  "isCustom": true,
+                                  "width": "1px 1px 1px 1px"
+                                }
+                              }
+                            },
+                            "boxShadow": {
+                              "desktop": {
+                                "normal": {
+                                  "angle": 49,
+                                  "blur": "4px",
+                                  "color": "rgba(18, 18, 18, 0.7)",
+                                  "distance": "4px",
+                                  "spread": "4px",
+                                  "type": "shadow-1"
+                                }
+                              }
+                            },
+                            "d": {
+                              "desktop": true,
+                              "mobile": true,
+                              "tablet": true
+                            },
+                            "hasBoxShadow": { "desktop": { "normal": false } },
+                            "op": { "desktop": "100%" },
+                            "rounded": {
+                              "desktop": {
+                                "normal": {
+                                  "bblr": "0px",
+                                  "bbrr": "0px",
+                                  "btlr": "0px",
+                                  "btrr": "0px",
+                                  "radiusType": "none"
+                                }
+                              }
+                            }
+                          },
+                          "label": "Icon",
+                          "settings": {
+                            "iconLink": {
+                              "link": "",
+                              "target": "_self",
+                              "title": ""
+                            },
+                            "iconSvg": "\u003csvg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" fill=\"currentColor\" data-id=\"508414815326568800\" viewBox=\"0 0 256 256\"\u003e\u003cpath d=\"m234.29 114.85-45 38.83L203 211.75a16.4 16.4 0 0 1-24.5 17.82L128 198.49l-50.53 31.08A16.4 16.4 0 0 1 53 211.75l13.76-58.07-45-38.83A16.46 16.46 0 0 1 31.08 86l59-4.76 22.76-55.08a16.36 16.36 0 0 1 30.27 0l22.75 55.08 59 4.76a16.46 16.46 0 0 1 9.37 28.86Z\"/\u003e\u003c/svg\u003e"
+                          },
+                          "styles": {
+                            "align": { "desktop": "left" },
+                            "color": { "normal": "line-3" },
+                            "globalSize": {
+                              "desktop": {
+                                "isDropDownWidth": true,
+                                "padding": { "type": "custom" },
+                                "width": "16px"
+                              }
+                            },
+                            "iconBorder": {
+                              "normal": {
+                                "border": "none",
+                                "borderType": "none",
+                                "borderWidth": "1px",
+                                "color": "#000000",
+                                "isCustom": false,
+                                "width": "1px 1px 1px 1px"
+                              }
+                            },
+                            "iconRotate": 0,
+                            "iconRounded": {
+                              "hover": { "radiusType": "none" },
+                              "normal": { "radiusType": "none" }
+                            },
+                            "iconSpacing": { "type": "none" },
+                            "iconWidth": { "desktop": "20px" },
+                            "spin": false
+                          },
+                          "tag": "Icon",
+                          "uid": "gbDuwD9sg3"
+                        }
+                      ],
+                      "label": "Icon List Item",
+                      "settings": {},
+                      "styles": {},
+                      "tag": "IconListItemHoz",
+                      "uid": "gcs_24cB8m"
+                    },
+                    {
+                      "advanced": {
+                        "border": {
+                          "desktop": {
+                            "normal": {
+                              "border": "none",
+                              "borderType": "none",
+                              "borderWidth": "1px",
+                              "color": "#121212",
+                              "isCustom": true,
+                              "width": "1px 1px 1px 1px"
+                            }
+                          }
+                        },
+                        "boxShadow": {
+                          "desktop": {
+                            "normal": {
+                              "angle": 49,
+                              "blur": "4px",
+                              "color": "rgba(18, 18, 18, 0.7)",
+                              "distance": "4px",
+                              "spread": "4px",
+                              "type": "shadow-1"
+                            }
+                          }
+                        },
+                        "d": {
+                          "desktop": true,
+                          "mobile": true,
+                          "tablet": true
+                        },
+                        "hasBoxShadow": { "desktop": { "normal": false } },
+                        "op": { "desktop": "100%" },
+                        "rounded": {
+                          "desktop": {
+                            "normal": {
+                              "bblr": "0px",
+                              "bbrr": "0px",
+                              "btlr": "0px",
+                              "btrr": "0px",
+                              "radiusType": "none"
+                            }
+                          }
+                        }
+                      },
+                      "childrens": [
+                        {
+                          "advanced": {
+                            "border": {
+                              "desktop": {
+                                "normal": {
+                                  "border": "none",
+                                  "borderType": "none",
+                                  "borderWidth": "1px",
+                                  "color": "#121212",
+                                  "isCustom": true,
+                                  "width": "1px 1px 1px 1px"
+                                }
+                              }
+                            },
+                            "boxShadow": {
+                              "desktop": {
+                                "normal": {
+                                  "angle": 49,
+                                  "blur": "4px",
+                                  "color": "rgba(18, 18, 18, 0.7)",
+                                  "distance": "4px",
+                                  "spread": "4px",
+                                  "type": "shadow-1"
+                                }
+                              }
+                            },
+                            "d": {
+                              "desktop": true,
+                              "mobile": true,
+                              "tablet": true
+                            },
+                            "hasBoxShadow": { "desktop": { "normal": false } },
+                            "op": { "desktop": "100%" },
+                            "rounded": {
+                              "desktop": {
+                                "normal": {
+                                  "bblr": "0px",
+                                  "bbrr": "0px",
+                                  "btlr": "0px",
+                                  "btrr": "0px",
+                                  "radiusType": "none"
+                                }
+                              }
+                            }
+                          },
+                          "label": "Icon",
+                          "settings": {
+                            "iconLink": {
+                              "link": "",
+                              "target": "_self",
+                              "title": ""
+                            },
+                            "iconSvg": "\u003csvg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" fill=\"currentColor\" data-id=\"508414815326568800\" viewBox=\"0 0 256 256\"\u003e\u003cpath d=\"m234.29 114.85-45 38.83L203 211.75a16.4 16.4 0 0 1-24.5 17.82L128 198.49l-50.53 31.08A16.4 16.4 0 0 1 53 211.75l13.76-58.07-45-38.83A16.46 16.46 0 0 1 31.08 86l59-4.76 22.76-55.08a16.36 16.36 0 0 1 30.27 0l22.75 55.08 59 4.76a16.46 16.46 0 0 1 9.37 28.86Z\"/\u003e\u003c/svg\u003e"
+                          },
+                          "styles": {
+                            "align": { "desktop": "left" },
+                            "color": { "normal": "line-3" },
+                            "globalSize": {
+                              "desktop": {
+                                "isDropDownWidth": true,
+                                "padding": { "type": "custom" },
+                                "width": "16px"
+                              }
+                            },
+                            "iconBorder": {
+                              "normal": {
+                                "border": "none",
+                                "borderType": "none",
+                                "borderWidth": "1px",
+                                "color": "#000000",
+                                "isCustom": false,
+                                "width": "1px 1px 1px 1px"
+                              }
+                            },
+                            "iconRotate": 0,
+                            "iconRounded": {
+                              "hover": { "radiusType": "none" },
+                              "normal": { "radiusType": "none" }
+                            },
+                            "iconSpacing": { "type": "none" },
+                            "iconWidth": { "desktop": "20px" },
+                            "spin": false
+                          },
+                          "tag": "Icon",
+                          "uid": "gD7F1B2bYZ"
+                        }
+                      ],
+                      "label": "Icon List Item",
+                      "settings": {},
+                      "styles": {},
+                      "tag": "IconListItemHoz",
+                      "uid": "g5aUsxnTVU"
+                    },
+                    {
+                      "advanced": {
+                        "border": {
+                          "desktop": {
+                            "normal": {
+                              "border": "none",
+                              "borderType": "none",
+                              "borderWidth": "1px",
+                              "color": "#121212",
+                              "isCustom": true,
+                              "width": "1px 1px 1px 1px"
+                            }
+                          }
+                        },
+                        "boxShadow": {
+                          "desktop": {
+                            "normal": {
+                              "angle": 49,
+                              "blur": "4px",
+                              "color": "rgba(18, 18, 18, 0.7)",
+                              "distance": "4px",
+                              "spread": "4px",
+                              "type": "shadow-1"
+                            }
+                          }
+                        },
+                        "d": {
+                          "desktop": true,
+                          "mobile": true,
+                          "tablet": true
+                        },
+                        "hasBoxShadow": { "desktop": { "normal": false } },
+                        "op": { "desktop": "100%" },
+                        "rounded": {
+                          "desktop": {
+                            "normal": {
+                              "bblr": "0px",
+                              "bbrr": "0px",
+                              "btlr": "0px",
+                              "btrr": "0px",
+                              "radiusType": "none"
+                            }
+                          }
+                        }
+                      },
+                      "childrens": [
+                        {
+                          "advanced": {
+                            "border": {
+                              "desktop": {
+                                "normal": {
+                                  "border": "none",
+                                  "borderType": "none",
+                                  "borderWidth": "1px",
+                                  "color": "#121212",
+                                  "isCustom": true,
+                                  "width": "1px 1px 1px 1px"
+                                }
+                              }
+                            },
+                            "boxShadow": {
+                              "desktop": {
+                                "normal": {
+                                  "angle": 49,
+                                  "blur": "4px",
+                                  "color": "rgba(18, 18, 18, 0.7)",
+                                  "distance": "4px",
+                                  "spread": "4px",
+                                  "type": "shadow-1"
+                                }
+                              }
+                            },
+                            "d": {
+                              "desktop": true,
+                              "mobile": true,
+                              "tablet": true
+                            },
+                            "hasBoxShadow": { "desktop": { "normal": false } },
+                            "op": { "desktop": "100%" },
+                            "rounded": {
+                              "desktop": {
+                                "normal": {
+                                  "bblr": "0px",
+                                  "bbrr": "0px",
+                                  "btlr": "0px",
+                                  "btrr": "0px",
+                                  "radiusType": "none"
+                                }
+                              }
+                            }
+                          },
+                          "label": "Icon",
+                          "settings": {
+                            "iconLink": {
+                              "link": "",
+                              "target": "_self",
+                              "title": ""
+                            },
+                            "iconSvg": "\u003csvg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" fill=\"currentColor\" data-id=\"508414815326765440\" viewBox=\"0 0 256 256\"\u003e\u003cpath d=\"M239.18 97.26A16.38 16.38 0 0 0 224.92 86l-59-4.76-22.78-55.09a16.36 16.36 0 0 0-30.27 0L90.11 81.23 31.08 86a16.46 16.46 0 0 0-9.37 28.86l45 38.83L53 211.75a16.4 16.4 0 0 0 24.5 17.82l50.5-31.08 50.53 31.08A16.4 16.4 0 0 0 203 211.75l-13.76-58.07 45-38.83a16.43 16.43 0 0 0 4.94-17.59Zm-15.34 5.47-48.7 42a8 8 0 0 0-2.56 7.91l14.88 62.8a.37.37 0 0 1-.17.48c-.18.14-.23.11-.38 0l-54.72-33.65a8 8 0 0 0-4.19-1.17V32c.24 0 .27.08.35.26L153 91.86a8 8 0 0 0 6.75 4.92l63.91 5.16c.16 0 .25 0 .34.29s0 .4-.16.5Z\"/\u003e\u003c/svg\u003e"
+                          },
+                          "styles": {
+                            "align": { "desktop": "left" },
+                            "color": { "normal": "line-3" },
+                            "globalSize": {
+                              "desktop": {
+                                "isDropDownWidth": true,
+                                "padding": { "type": "custom" },
+                                "width": "16px"
+                              }
+                            },
+                            "iconBorder": {
+                              "normal": {
+                                "border": "none",
+                                "borderType": "none",
+                                "borderWidth": "1px",
+                                "color": "#000000",
+                                "isCustom": false,
+                                "width": "1px 1px 1px 1px"
+                              }
+                            },
+                            "iconRotate": 0,
+                            "iconRounded": {
+                              "hover": { "radiusType": "none" },
+                              "normal": { "radiusType": "none" }
+                            },
+                            "iconSpacing": { "type": "none" },
+                            "iconWidth": { "desktop": "20px" },
+                            "spin": false
+                          },
+                          "tag": "Icon",
+                          "uid": "gtsGMDatND"
+                        }
+                      ],
+                      "label": "Icon List Item",
+                      "settings": {},
+                      "styles": {},
+                      "tag": "IconListItemHoz",
+                      "uid": "gpVHLmst_W"
+                    }
+                  ],
+                  "label": "Icon List",
+                  "settings": {
+                    "childItem": [
+                      "Icon 1",
+                      "Icon 2",
+                      "Icon 3",
+                      "Icon 4",
+                      "Icon 5"
+                    ],
+                    "preload": false
+                  },
+                  "styles": {
+                    "align": { "desktop": "left" },
+                    "background": {
+                      "desktop": {
+                        "attachment": "scroll",
+                        "color": "transparent",
+                        "image": { "height": 0, "src": "", "width": 0 },
+                        "position": { "x": 50, "y": 50 },
+                        "repeat": "no-repeat",
+                        "size": "cover",
+                        "type": "color"
+                      }
+                    },
+                    "horizontalSpacing": "4px",
+                    "verticalAlign": { "desktop": "start" }
+                  },
+                  "tag": "IconListHoz",
+                  "uid": "g5WEAmxFaL"
+                }
+              ],
+              "label": "Block",
+              "settings": {},
+              "styles": { "order": { "desktop": 0 } },
+              "tag": "Col",
+              "uid": "gHTIsjORHW"
+            }
+          ],
+          "label": "Row",
+          "settings": {
+            "blockAlignment": "start",
+            "horizontalAlign": {
+              "desktop": "start",
+              "mobile": "end",
+              "tablet": "center"
+            },
+            "inlineAlignment": "start",
+            "layout": {
+              "desktop": {
+                "cols": [6, 6],
+                "colsOrder": ["g6UtpM9hsj", "gtMQJfkgAc"],
+                "display": "fill"
+              },
+              "mobile": { "cols": [12], "display": "fill" }
+            },
+            "verticalAlign": {
+              "desktop": "start",
+              "mobile": "center",
+              "tablet": "end"
+            }
+          },
+          "styles": {
+            "background": {
+              "desktop": {
+                "attachment": "scroll",
+                "color": "transparent",
+                "image": { "height": 0, "src": "", "width": 0 },
+                "position": { "x": 50, "y": 50 },
+                "repeat": "no-repeat",
+                "size": "cover",
+                "type": "color"
+              }
+            },
+            "columnGap": { "desktop": "1%" },
+            "preloadBgImage": false,
+            "verticalGutter": { "desktop": "200px", "tablet": "100px" }
+          },
+          "tag": "Row",
+          "uid": "gsqN4wiYUk"
+        },
+        {
+          "advanced": {
+            "border": {
+              "desktop": {
+                "normal": {
+                  "border": "dashed",
+                  "borderType": "none",
+                  "borderWidth": "1px",
+                  "color": "#121212",
+                  "isCustom": true,
+                  "width": "1px 1px 1px 1px"
+                }
+              }
+            },
+            "boxShadow": {
+              "desktop": {
+                "normal": {
+                  "angle": 49,
+                  "blur": "10px",
+                  "color": "#d63837",
+                  "distance": "14px",
+                  "spread": "10px",
+                  "type": "custom"
+                }
+              }
+            },
+            "d": { "desktop": true, "mobile": true, "tablet": true },
+            "hasBoxShadow": { "desktop": { "normal": true } },
+            "op": { "desktop": "100%" },
+            "rounded": {
+              "desktop": {
+                "normal": {
+                  "bblr": "16px",
+                  "bbrr": "16px",
+                  "btlr": "16px",
+                  "btrr": "16px",
+                  "radiusType": "custom"
+                }
+              }
+            },
+            "spacing-setting": { "desktop": { "margin": { "bottom": 0 } } }
+          },
+          "childrens": [
+            {
+              "advanced": {
+                "border": {
+                  "desktop": {
+                    "normal": {
+                      "border": "none",
+                      "borderType": "none",
+                      "borderWidth": "1px",
+                      "color": "#121212",
+                      "isCustom": true,
+                      "width": "1px 1px 1px 1px"
+                    }
+                  }
+                },
+                "boxShadow": {
+                  "desktop": {
+                    "normal": {
+                      "angle": 49,
+                      "blur": "4px",
+                      "color": "rgba(18, 18, 18, 0.7)",
+                      "distance": "4px",
+                      "spread": "4px",
+                      "type": "shadow-1"
+                    }
+                  }
+                },
+                "d": { "desktop": true, "mobile": true, "tablet": true },
+                "hasBoxShadow": { "desktop": { "normal": false } },
+                "op": { "desktop": "100%" },
+                "rounded": {
+                  "desktop": {
+                    "normal": {
+                      "bblr": "0px",
+                      "bbrr": "0px",
+                      "btlr": "0px",
+                      "btrr": "0px",
+                      "radiusType": "none"
+                    }
+                  }
+                }
+              },
+              "childrens": [
+                {
+                  "advanced": {
+                    "border": {
+                      "desktop": {
+                        "normal": {
+                          "border": "none",
+                          "borderType": "none",
+                          "borderWidth": "1px",
+                          "color": "#121212",
+                          "isCustom": true,
+                          "width": "1px 1px 1px 1px"
+                        }
+                      }
+                    },
+                    "boxShadow": {
+                      "desktop": {
+                        "normal": {
+                          "angle": 49,
+                          "blur": "4px",
+                          "color": "rgba(18, 18, 18, 0.7)",
+                          "distance": "4px",
+                          "spread": "4px",
+                          "type": "shadow-1"
+                        }
+                      }
+                    },
+                    "d": { "desktop": true, "mobile": true, "tablet": true },
+                    "hasBoxShadow": { "desktop": { "normal": false } },
+                    "op": { "desktop": "100%" },
+                    "rounded": {
+                      "desktop": {
+                        "normal": {
+                          "bblr": "0px",
+                          "bbrr": "0px",
+                          "btlr": "0px",
+                          "btrr": "0px",
+                          "radiusType": "none"
+                        }
+                      }
+                    },
+                    "spacing-setting": {
+                      "desktop": { "margin": { "bottom": 0 } }
+                    }
+                  },
+                  "label": "Heading",
+                  "settings": {
+                    "background": {
+                      "desktop": {
+                        "attachment": "scroll",
+                        "color": "transparent",
+                        "image": { "height": 0, "src": "", "width": 0 },
+                        "position": { "x": 50, "y": 50 },
+                        "repeat": "no-repeat",
+                        "size": "cover",
+                        "type": "color"
+                      }
+                    },
+                    "globalSize": {
+                      "desktop": {
+                        "padding": { "type": "custom" },
+                        "width": "100%"
+                      }
+                    },
+                    "htmlTag": 2,
+                    "text": "Your heading text goes here",
+                    "translate": "text"
+                  },
+                  "styles": {
+                    "align": { "desktop": "left" },
+                    "textAlign": { "desktop": "left" },
+                    "typo": {
+                      "attrs": { "color": "text-2" },
+                      "type": "heading-1"
+                    }
+                  },
+                  "tag": "Heading",
+                  "uid": "gjkPayLMSQ"
+                },
+                {
+                  "advanced": {
+                    "border": {
+                      "desktop": {
+                        "normal": {
+                          "border": "none",
+                          "borderType": "none",
+                          "borderWidth": "1px",
+                          "color": "#121212",
+                          "isCustom": true,
+                          "width": "1px 1px 1px 1px"
+                        }
+                      }
+                    },
+                    "boxShadow": {
+                      "desktop": {
+                        "normal": {
+                          "angle": 49,
+                          "blur": "4px",
+                          "color": "rgba(18, 18, 18, 0.7)",
+                          "distance": "4px",
+                          "spread": "4px",
+                          "type": "shadow-1"
+                        }
+                      }
+                    },
+                    "d": { "desktop": true, "mobile": true, "tablet": true },
+                    "editorData": {
+                      "cssPlaceholder": ".{{rootClassName}} {\n\n}\n.{{rootClassName}} p {\n\n}"
+                    },
+                    "hasBoxShadow": { "desktop": { "normal": false } },
+                    "op": { "desktop": "100%" },
+                    "rounded": {
+                      "desktop": {
+                        "normal": {
+                          "bblr": "0px",
+                          "bbrr": "0px",
+                          "btlr": "0px",
+                          "btrr": "0px",
+                          "radiusType": "none"
+                        }
+                      }
+                    },
+                    "spacing-setting": {
+                      "desktop": { "margin": { "bottom": 0 } }
+                    }
+                  },
+                  "label": "Text Block",
+                  "settings": {
+                    "background": {
+                      "desktop": {
+                        "attachment": "scroll",
+                        "color": "transparent",
+                        "image": { "height": 0, "src": "", "width": 0 },
+                        "position": { "x": 50, "y": 50 },
+                        "repeat": "no-repeat",
+                        "size": "cover",
+                        "type": "color"
+                      }
+                    },
+                    "globalSize": {
+                      "desktop": {
+                        "padding": { "type": "custom" },
+                        "width": "100%"
+                      }
+                    },
+                    "htmlTag": "div",
+                    "text": "\u003cp\u003eRow 2 column - By radio\u003cbr\u003e\u003cstrong\u003eColumn\u003c/strong\u003e: 2 -- 1 -- 2\u003cbr\u003e\u003cstrong\u003eHorizontal\u003c/strong\u003e: Căn trái\u003cbr\u003e\u003cstrong\u003eVertical\u003c/strong\u003e: Bottom/Không có/Center\u003cbr\u003e\u003cstrong\u003eColumn gap\u003c/strong\u003e: 100px/không có/50px\u003cbr\u003eSection Full width\u003c/p\u003e",
+                    "translate": "text"
+                  },
+                  "styles": {
+                    "align": { "desktop": "left" },
+                    "hasLineClamp": { "desktop": false },
+                    "lineClamp": { "desktop": 1, "mobile": 1, "tablet": 1 },
+                    "textAlign": { "desktop": "left" },
+                    "typo": {
+                      "attrs": { "color": "text-1" },
+                      "type": "paragraph-1"
+                    }
+                  },
+                  "tag": "Text",
+                  "uid": "gmBg2X9yUk"
+                },
+                {
+                  "advanced": {
+                    "border": {
+                      "desktop": {
+                        "normal": {
+                          "border": "none",
+                          "borderType": "none",
+                          "borderWidth": "1px",
+                          "color": "#121212",
+                          "isCustom": true,
+                          "width": "1px 1px 1px 1px"
+                        }
+                      }
+                    },
+                    "boxShadow": {
+                      "desktop": {
+                        "normal": {
+                          "angle": 49,
+                          "blur": "4px",
+                          "color": "rgba(18, 18, 18, 0.7)",
+                          "distance": "4px",
+                          "spread": "4px",
+                          "type": "shadow-1"
+                        }
+                      }
+                    },
+                    "d": { "desktop": true, "mobile": true, "tablet": true },
+                    "editorData": {
+                      "cssPlaceholder": "button.{{rootClassName}} {\n\n}"
+                    },
+                    "hasBoxShadow": { "desktop": { "normal": false } },
+                    "op": { "desktop": "100%" },
+                    "rounded": {
+                      "desktop": {
+                        "normal": {
+                          "bblr": "0px",
+                          "bbrr": "0px",
+                          "btlr": "0px",
+                          "btrr": "0px",
+                          "radiusType": "none"
+                        }
+                      }
+                    },
+                    "spacing-setting": {
+                      "desktop": { "margin": { "bottom": 0 } }
+                    }
+                  },
+                  "label": "Button",
+                  "settings": {
+                    "btnLink": { "link": "", "target": "_self" },
+                    "disabled": false,
+                    "htmlType": "button",
+                    "iconAlign": "left",
+                    "iconSvg": "\u003csvg style=\"width: 100%; height: 100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" fill=\"currentColor\"\u003e \u003cpath fill=\"currentColor\" strokeLinecap=\"round\" strokeLinejoin=\"round\" fill=\"currentColor\" d=\"M115.584 494.176c-12.352 6.336 -26.368 -4.768 -23.872 -18.944l26.56 -151.36L5.536 216.48c-10.528 -10.048 -5.056 -28.416 9.056 -30.4l156.736 -22.272L241.216 25.344c6.304 -12.48 23.36 -12.48 29.664 0l69.888 138.464 156.736 22.272c14.112 1.984 19.584 20.352 9.024 30.4l-112.704 107.392 26.56 151.36c2.496 14.176 -11.52 25.28 -23.872 18.944L256 421.984l-140.448 72.192z\" /\u003e\u003c/svg\u003e",
+                    "iconVisible": false,
+                    "label": "Button",
+                    "shouldClearSpace": false,
+                    "translate": "label"
+                  },
+                  "styles": {
+                    "align": { "desktop": "left" },
+                    "backgroundColor": {
+                      "hover": "highlight",
+                      "normal": "brand"
+                    },
+                    "borderBtn": {
+                      "normal": {
+                        "border": "none",
+                        "borderType": "none",
+                        "borderWidth": "1px",
+                        "isCustom": false,
+                        "width": "1px 1px 1px 1px"
+                      }
+                    },
+                    "boxShadowBtn": {
+                      "normal": {
+                        "angle": 90,
+                        "blur": "12px",
+                        "color": "rgba(0, 0, 0, 0.20)",
+                        "distance": "4px",
+                        "spread": "0px",
+                        "type": "shadow-1"
+                      }
+                    },
+                    "btnSpacing": { "type": "medium" },
+                    "fullWidth": { "desktop": false },
+                    "globalSize": {
+                      "desktop": {
+                        "height": "Auto",
+                        "padding": {
+                          "bottom": "8px",
+                          "left": "24px",
+                          "right": "24px",
+                          "top": "8px",
+                          "type": "medium"
+                        },
+                        "width": "Auto"
+                      }
+                    },
+                    "hasBoxShadowBtn": { "hover": false, "normal": false },
+                    "iconDimension": { "desktop": "24px" },
+                    "iconSizeAuto": true,
+                    "iconSpacing": { "desktop": "8px" },
+                    "roundedBtn": { "normal": { "radiusType": "small" } },
+                    "size": { "desktop": "1em" },
+                    "textColor": { "normal": "text-3" },
+                    "transform": "default",
+                    "typo": { "type": "paragraph-1" }
+                  },
+                  "tag": "Button",
+                  "uid": "gR6_NPAOS5"
+                }
+              ],
+              "label": "Block",
+              "settings": {},
+              "styles": { "order": { "desktop": 1 } },
+              "tag": "Col",
+              "uid": "gk7UMM19lU"
+            },
+            {
+              "childrens": [
+                {
+                  "advanced": {
+                    "border": {
+                      "desktop": {
+                        "normal": {
+                          "border": "none",
+                          "borderType": "none",
+                          "borderWidth": "1px",
+                          "color": "#121212",
+                          "isCustom": true,
+                          "width": "1px 1px 1px 1px"
+                        }
+                      }
+                    },
+                    "boxShadow": {
+                      "desktop": {
+                        "normal": {
+                          "angle": 49,
+                          "blur": "4px",
+                          "color": "rgba(18, 18, 18, 0.7)",
+                          "distance": "4px",
+                          "spread": "4px",
+                          "type": "shadow-1"
+                        }
+                      }
+                    },
+                    "d": { "desktop": true, "mobile": true, "tablet": true },
+                    "hasBoxShadow": { "desktop": { "normal": false } },
+                    "op": { "desktop": "100%" },
+                    "rounded": {
+                      "desktop": {
+                        "normal": {
+                          "bblr": "0px",
+                          "bbrr": "0px",
+                          "btlr": "0px",
+                          "btrr": "0px",
+                          "radiusType": "none"
+                        }
+                      }
+                    },
+                    "spacing-setting": {
+                      "desktop": { "margin": { "bottom": 0 } }
+                    }
+                  },
+                  "childrens": [
+                    {
+                      "advanced": {
+                        "border": {
+                          "desktop": {
+                            "normal": {
+                              "border": "none",
+                              "borderType": "none",
+                              "borderWidth": "1px",
+                              "color": "#121212",
+                              "isCustom": true,
+                              "width": "1px 1px 1px 1px"
+                            }
+                          }
+                        },
+                        "boxShadow": {
+                          "desktop": {
+                            "normal": {
+                              "angle": 49,
+                              "blur": "4px",
+                              "color": "rgba(18, 18, 18, 0.7)",
+                              "distance": "4px",
+                              "spread": "4px",
+                              "type": "shadow-1"
+                            }
+                          }
+                        },
+                        "d": {
+                          "desktop": true,
+                          "mobile": true,
+                          "tablet": true
+                        },
+                        "hasBoxShadow": { "desktop": { "normal": false } },
+                        "op": { "desktop": "100%" },
+                        "rounded": {
+                          "desktop": {
+                            "normal": {
+                              "bblr": "0px",
+                              "bbrr": "0px",
+                              "btlr": "0px",
+                              "btrr": "0px",
+                              "radiusType": "none"
+                            }
+                          }
+                        }
+                      },
+                      "childrens": [
+                        {
+                          "advanced": {
+                            "border": {
+                              "desktop": {
+                                "normal": {
+                                  "border": "none",
+                                  "borderType": "none",
+                                  "borderWidth": "1px",
+                                  "color": "#121212",
+                                  "isCustom": true,
+                                  "width": "1px 1px 1px 1px"
+                                }
+                              }
+                            },
+                            "boxShadow": {
+                              "desktop": {
+                                "normal": {
+                                  "angle": 49,
+                                  "blur": "4px",
+                                  "color": "rgba(18, 18, 18, 0.7)",
+                                  "distance": "4px",
+                                  "spread": "4px",
+                                  "type": "shadow-1"
+                                }
+                              }
+                            },
+                            "d": {
+                              "desktop": true,
+                              "mobile": true,
+                              "tablet": true
+                            },
+                            "hasBoxShadow": { "desktop": { "normal": false } },
+                            "op": { "desktop": "100%" },
+                            "rounded": {
+                              "desktop": {
+                                "normal": {
+                                  "bblr": "0px",
+                                  "bbrr": "0px",
+                                  "btlr": "0px",
+                                  "btrr": "0px",
+                                  "radiusType": "none"
+                                }
+                              }
+                            }
+                          },
+                          "label": "Icon",
+                          "settings": {
+                            "iconLink": {
+                              "link": "",
+                              "target": "_self",
+                              "title": ""
+                            },
+                            "iconSvg": "\u003csvg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" fill=\"currentColor\" data-id=\"508414815326568800\" viewBox=\"0 0 256 256\"\u003e\u003cpath d=\"m234.29 114.85-45 38.83L203 211.75a16.4 16.4 0 0 1-24.5 17.82L128 198.49l-50.53 31.08A16.4 16.4 0 0 1 53 211.75l13.76-58.07-45-38.83A16.46 16.46 0 0 1 31.08 86l59-4.76 22.76-55.08a16.36 16.36 0 0 1 30.27 0l22.75 55.08 59 4.76a16.46 16.46 0 0 1 9.37 28.86Z\"/\u003e\u003c/svg\u003e"
+                          },
+                          "styles": {
+                            "align": { "desktop": "left" },
+                            "color": { "normal": "line-3" },
+                            "globalSize": {
+                              "desktop": {
+                                "isDropDownWidth": true,
+                                "padding": { "type": "custom" },
+                                "width": "16px"
+                              }
+                            },
+                            "iconBorder": {
+                              "normal": {
+                                "border": "none",
+                                "borderType": "none",
+                                "borderWidth": "1px",
+                                "color": "#000000",
+                                "isCustom": false,
+                                "width": "1px 1px 1px 1px"
+                              }
+                            },
+                            "iconRotate": 0,
+                            "iconRounded": {
+                              "hover": { "radiusType": "none" },
+                              "normal": { "radiusType": "none" }
+                            },
+                            "iconSpacing": { "type": "none" },
+                            "iconWidth": { "desktop": "20px" },
+                            "spin": false
+                          },
+                          "tag": "Icon",
+                          "uid": "gKSYO1mBhM"
+                        }
+                      ],
+                      "label": "Icon List Item",
+                      "settings": {},
+                      "styles": {},
+                      "tag": "IconListItemHoz",
+                      "uid": "ga4SWCazVp"
+                    },
+                    {
+                      "advanced": {
+                        "border": {
+                          "desktop": {
+                            "normal": {
+                              "border": "none",
+                              "borderType": "none",
+                              "borderWidth": "1px",
+                              "color": "#121212",
+                              "isCustom": true,
+                              "width": "1px 1px 1px 1px"
+                            }
+                          }
+                        },
+                        "boxShadow": {
+                          "desktop": {
+                            "normal": {
+                              "angle": 49,
+                              "blur": "4px",
+                              "color": "rgba(18, 18, 18, 0.7)",
+                              "distance": "4px",
+                              "spread": "4px",
+                              "type": "shadow-1"
+                            }
+                          }
+                        },
+                        "d": {
+                          "desktop": true,
+                          "mobile": true,
+                          "tablet": true
+                        },
+                        "hasBoxShadow": { "desktop": { "normal": false } },
+                        "op": { "desktop": "100%" },
+                        "rounded": {
+                          "desktop": {
+                            "normal": {
+                              "bblr": "0px",
+                              "bbrr": "0px",
+                              "btlr": "0px",
+                              "btrr": "0px",
+                              "radiusType": "none"
+                            }
+                          }
+                        }
+                      },
+                      "childrens": [
+                        {
+                          "advanced": {
+                            "border": {
+                              "desktop": {
+                                "normal": {
+                                  "border": "none",
+                                  "borderType": "none",
+                                  "borderWidth": "1px",
+                                  "color": "#121212",
+                                  "isCustom": true,
+                                  "width": "1px 1px 1px 1px"
+                                }
+                              }
+                            },
+                            "boxShadow": {
+                              "desktop": {
+                                "normal": {
+                                  "angle": 49,
+                                  "blur": "4px",
+                                  "color": "rgba(18, 18, 18, 0.7)",
+                                  "distance": "4px",
+                                  "spread": "4px",
+                                  "type": "shadow-1"
+                                }
+                              }
+                            },
+                            "d": {
+                              "desktop": true,
+                              "mobile": true,
+                              "tablet": true
+                            },
+                            "hasBoxShadow": { "desktop": { "normal": false } },
+                            "op": { "desktop": "100%" },
+                            "rounded": {
+                              "desktop": {
+                                "normal": {
+                                  "bblr": "0px",
+                                  "bbrr": "0px",
+                                  "btlr": "0px",
+                                  "btrr": "0px",
+                                  "radiusType": "none"
+                                }
+                              }
+                            }
+                          },
+                          "label": "Icon",
+                          "settings": {
+                            "iconLink": {
+                              "link": "",
+                              "target": "_self",
+                              "title": ""
+                            },
+                            "iconSvg": "\u003csvg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" fill=\"currentColor\" data-id=\"508414815326568800\" viewBox=\"0 0 256 256\"\u003e\u003cpath d=\"m234.29 114.85-45 38.83L203 211.75a16.4 16.4 0 0 1-24.5 17.82L128 198.49l-50.53 31.08A16.4 16.4 0 0 1 53 211.75l13.76-58.07-45-38.83A16.46 16.46 0 0 1 31.08 86l59-4.76 22.76-55.08a16.36 16.36 0 0 1 30.27 0l22.75 55.08 59 4.76a16.46 16.46 0 0 1 9.37 28.86Z\"/\u003e\u003c/svg\u003e"
+                          },
+                          "styles": {
+                            "align": { "desktop": "left" },
+                            "color": { "normal": "line-3" },
+                            "globalSize": {
+                              "desktop": {
+                                "isDropDownWidth": true,
+                                "padding": { "type": "custom" },
+                                "width": "16px"
+                              }
+                            },
+                            "iconBorder": {
+                              "normal": {
+                                "border": "none",
+                                "borderType": "none",
+                                "borderWidth": "1px",
+                                "color": "#000000",
+                                "isCustom": false,
+                                "width": "1px 1px 1px 1px"
+                              }
+                            },
+                            "iconRotate": 0,
+                            "iconRounded": {
+                              "hover": { "radiusType": "none" },
+                              "normal": { "radiusType": "none" }
+                            },
+                            "iconSpacing": { "type": "none" },
+                            "iconWidth": { "desktop": "20px" },
+                            "spin": false
+                          },
+                          "tag": "Icon",
+                          "uid": "gqGgvR_08g"
+                        }
+                      ],
+                      "label": "Icon List Item",
+                      "settings": {},
+                      "styles": {},
+                      "tag": "IconListItemHoz",
+                      "uid": "g0Fip9SzoI"
+                    },
+                    {
+                      "advanced": {
+                        "border": {
+                          "desktop": {
+                            "normal": {
+                              "border": "none",
+                              "borderType": "none",
+                              "borderWidth": "1px",
+                              "color": "#121212",
+                              "isCustom": true,
+                              "width": "1px 1px 1px 1px"
+                            }
+                          }
+                        },
+                        "boxShadow": {
+                          "desktop": {
+                            "normal": {
+                              "angle": 49,
+                              "blur": "4px",
+                              "color": "rgba(18, 18, 18, 0.7)",
+                              "distance": "4px",
+                              "spread": "4px",
+                              "type": "shadow-1"
+                            }
+                          }
+                        },
+                        "d": {
+                          "desktop": true,
+                          "mobile": true,
+                          "tablet": true
+                        },
+                        "hasBoxShadow": { "desktop": { "normal": false } },
+                        "op": { "desktop": "100%" },
+                        "rounded": {
+                          "desktop": {
+                            "normal": {
+                              "bblr": "0px",
+                              "bbrr": "0px",
+                              "btlr": "0px",
+                              "btrr": "0px",
+                              "radiusType": "none"
+                            }
+                          }
+                        }
+                      },
+                      "childrens": [
+                        {
+                          "advanced": {
+                            "border": {
+                              "desktop": {
+                                "normal": {
+                                  "border": "none",
+                                  "borderType": "none",
+                                  "borderWidth": "1px",
+                                  "color": "#121212",
+                                  "isCustom": true,
+                                  "width": "1px 1px 1px 1px"
+                                }
+                              }
+                            },
+                            "boxShadow": {
+                              "desktop": {
+                                "normal": {
+                                  "angle": 49,
+                                  "blur": "4px",
+                                  "color": "rgba(18, 18, 18, 0.7)",
+                                  "distance": "4px",
+                                  "spread": "4px",
+                                  "type": "shadow-1"
+                                }
+                              }
+                            },
+                            "d": {
+                              "desktop": true,
+                              "mobile": true,
+                              "tablet": true
+                            },
+                            "hasBoxShadow": { "desktop": { "normal": false } },
+                            "op": { "desktop": "100%" },
+                            "rounded": {
+                              "desktop": {
+                                "normal": {
+                                  "bblr": "0px",
+                                  "bbrr": "0px",
+                                  "btlr": "0px",
+                                  "btrr": "0px",
+                                  "radiusType": "none"
+                                }
+                              }
+                            }
+                          },
+                          "label": "Icon",
+                          "settings": {
+                            "iconLink": {
+                              "link": "",
+                              "target": "_self",
+                              "title": ""
+                            },
+                            "iconSvg": "\u003csvg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" fill=\"currentColor\" data-id=\"508414815326568800\" viewBox=\"0 0 256 256\"\u003e\u003cpath d=\"m234.29 114.85-45 38.83L203 211.75a16.4 16.4 0 0 1-24.5 17.82L128 198.49l-50.53 31.08A16.4 16.4 0 0 1 53 211.75l13.76-58.07-45-38.83A16.46 16.46 0 0 1 31.08 86l59-4.76 22.76-55.08a16.36 16.36 0 0 1 30.27 0l22.75 55.08 59 4.76a16.46 16.46 0 0 1 9.37 28.86Z\"/\u003e\u003c/svg\u003e"
+                          },
+                          "styles": {
+                            "align": { "desktop": "left" },
+                            "color": { "normal": "line-3" },
+                            "globalSize": {
+                              "desktop": {
+                                "isDropDownWidth": true,
+                                "padding": { "type": "custom" },
+                                "width": "16px"
+                              }
+                            },
+                            "iconBorder": {
+                              "normal": {
+                                "border": "none",
+                                "borderType": "none",
+                                "borderWidth": "1px",
+                                "color": "#000000",
+                                "isCustom": false,
+                                "width": "1px 1px 1px 1px"
+                              }
+                            },
+                            "iconRotate": 0,
+                            "iconRounded": {
+                              "hover": { "radiusType": "none" },
+                              "normal": { "radiusType": "none" }
+                            },
+                            "iconSpacing": { "type": "none" },
+                            "iconWidth": { "desktop": "20px" },
+                            "spin": false
+                          },
+                          "tag": "Icon",
+                          "uid": "ge0QftzUnH"
+                        }
+                      ],
+                      "label": "Icon List Item",
+                      "settings": {},
+                      "styles": {},
+                      "tag": "IconListItemHoz",
+                      "uid": "gcHssXrnz_"
+                    },
+                    {
+                      "advanced": {
+                        "border": {
+                          "desktop": {
+                            "normal": {
+                              "border": "none",
+                              "borderType": "none",
+                              "borderWidth": "1px",
+                              "color": "#121212",
+                              "isCustom": true,
+                              "width": "1px 1px 1px 1px"
+                            }
+                          }
+                        },
+                        "boxShadow": {
+                          "desktop": {
+                            "normal": {
+                              "angle": 49,
+                              "blur": "4px",
+                              "color": "rgba(18, 18, 18, 0.7)",
+                              "distance": "4px",
+                              "spread": "4px",
+                              "type": "shadow-1"
+                            }
+                          }
+                        },
+                        "d": {
+                          "desktop": true,
+                          "mobile": true,
+                          "tablet": true
+                        },
+                        "hasBoxShadow": { "desktop": { "normal": false } },
+                        "op": { "desktop": "100%" },
+                        "rounded": {
+                          "desktop": {
+                            "normal": {
+                              "bblr": "0px",
+                              "bbrr": "0px",
+                              "btlr": "0px",
+                              "btrr": "0px",
+                              "radiusType": "none"
+                            }
+                          }
+                        }
+                      },
+                      "childrens": [
+                        {
+                          "advanced": {
+                            "border": {
+                              "desktop": {
+                                "normal": {
+                                  "border": "none",
+                                  "borderType": "none",
+                                  "borderWidth": "1px",
+                                  "color": "#121212",
+                                  "isCustom": true,
+                                  "width": "1px 1px 1px 1px"
+                                }
+                              }
+                            },
+                            "boxShadow": {
+                              "desktop": {
+                                "normal": {
+                                  "angle": 49,
+                                  "blur": "4px",
+                                  "color": "rgba(18, 18, 18, 0.7)",
+                                  "distance": "4px",
+                                  "spread": "4px",
+                                  "type": "shadow-1"
+                                }
+                              }
+                            },
+                            "d": {
+                              "desktop": true,
+                              "mobile": true,
+                              "tablet": true
+                            },
+                            "hasBoxShadow": { "desktop": { "normal": false } },
+                            "op": { "desktop": "100%" },
+                            "rounded": {
+                              "desktop": {
+                                "normal": {
+                                  "bblr": "0px",
+                                  "bbrr": "0px",
+                                  "btlr": "0px",
+                                  "btrr": "0px",
+                                  "radiusType": "none"
+                                }
+                              }
+                            }
+                          },
+                          "label": "Icon",
+                          "settings": {
+                            "iconLink": {
+                              "link": "",
+                              "target": "_self",
+                              "title": ""
+                            },
+                            "iconSvg": "\u003csvg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" fill=\"currentColor\" data-id=\"508414815326568800\" viewBox=\"0 0 256 256\"\u003e\u003cpath d=\"m234.29 114.85-45 38.83L203 211.75a16.4 16.4 0 0 1-24.5 17.82L128 198.49l-50.53 31.08A16.4 16.4 0 0 1 53 211.75l13.76-58.07-45-38.83A16.46 16.46 0 0 1 31.08 86l59-4.76 22.76-55.08a16.36 16.36 0 0 1 30.27 0l22.75 55.08 59 4.76a16.46 16.46 0 0 1 9.37 28.86Z\"/\u003e\u003c/svg\u003e"
+                          },
+                          "styles": {
+                            "align": { "desktop": "left" },
+                            "color": { "normal": "line-3" },
+                            "globalSize": {
+                              "desktop": {
+                                "isDropDownWidth": true,
+                                "padding": { "type": "custom" },
+                                "width": "16px"
+                              }
+                            },
+                            "iconBorder": {
+                              "normal": {
+                                "border": "none",
+                                "borderType": "none",
+                                "borderWidth": "1px",
+                                "color": "#000000",
+                                "isCustom": false,
+                                "width": "1px 1px 1px 1px"
+                              }
+                            },
+                            "iconRotate": 0,
+                            "iconRounded": {
+                              "hover": { "radiusType": "none" },
+                              "normal": { "radiusType": "none" }
+                            },
+                            "iconSpacing": { "type": "none" },
+                            "iconWidth": { "desktop": "20px" },
+                            "spin": false
+                          },
+                          "tag": "Icon",
+                          "uid": "gG6T7rUsA9"
+                        }
+                      ],
+                      "label": "Icon List Item",
+                      "settings": {},
+                      "styles": {},
+                      "tag": "IconListItemHoz",
+                      "uid": "gIYg-rTKgB"
+                    },
+                    {
+                      "advanced": {
+                        "border": {
+                          "desktop": {
+                            "normal": {
+                              "border": "none",
+                              "borderType": "none",
+                              "borderWidth": "1px",
+                              "color": "#121212",
+                              "isCustom": true,
+                              "width": "1px 1px 1px 1px"
+                            }
+                          }
+                        },
+                        "boxShadow": {
+                          "desktop": {
+                            "normal": {
+                              "angle": 49,
+                              "blur": "4px",
+                              "color": "rgba(18, 18, 18, 0.7)",
+                              "distance": "4px",
+                              "spread": "4px",
+                              "type": "shadow-1"
+                            }
+                          }
+                        },
+                        "d": {
+                          "desktop": true,
+                          "mobile": true,
+                          "tablet": true
+                        },
+                        "hasBoxShadow": { "desktop": { "normal": false } },
+                        "op": { "desktop": "100%" },
+                        "rounded": {
+                          "desktop": {
+                            "normal": {
+                              "bblr": "0px",
+                              "bbrr": "0px",
+                              "btlr": "0px",
+                              "btrr": "0px",
+                              "radiusType": "none"
+                            }
+                          }
+                        }
+                      },
+                      "childrens": [
+                        {
+                          "advanced": {
+                            "border": {
+                              "desktop": {
+                                "normal": {
+                                  "border": "none",
+                                  "borderType": "none",
+                                  "borderWidth": "1px",
+                                  "color": "#121212",
+                                  "isCustom": true,
+                                  "width": "1px 1px 1px 1px"
+                                }
+                              }
+                            },
+                            "boxShadow": {
+                              "desktop": {
+                                "normal": {
+                                  "angle": 49,
+                                  "blur": "4px",
+                                  "color": "rgba(18, 18, 18, 0.7)",
+                                  "distance": "4px",
+                                  "spread": "4px",
+                                  "type": "shadow-1"
+                                }
+                              }
+                            },
+                            "d": {
+                              "desktop": true,
+                              "mobile": true,
+                              "tablet": true
+                            },
+                            "hasBoxShadow": { "desktop": { "normal": false } },
+                            "op": { "desktop": "100%" },
+                            "rounded": {
+                              "desktop": {
+                                "normal": {
+                                  "bblr": "0px",
+                                  "bbrr": "0px",
+                                  "btlr": "0px",
+                                  "btrr": "0px",
+                                  "radiusType": "none"
+                                }
+                              }
+                            }
+                          },
+                          "label": "Icon",
+                          "settings": {
+                            "iconLink": {
+                              "link": "",
+                              "target": "_self",
+                              "title": ""
+                            },
+                            "iconSvg": "\u003csvg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" fill=\"currentColor\" data-id=\"508414815326765440\" viewBox=\"0 0 256 256\"\u003e\u003cpath d=\"M239.18 97.26A16.38 16.38 0 0 0 224.92 86l-59-4.76-22.78-55.09a16.36 16.36 0 0 0-30.27 0L90.11 81.23 31.08 86a16.46 16.46 0 0 0-9.37 28.86l45 38.83L53 211.75a16.4 16.4 0 0 0 24.5 17.82l50.5-31.08 50.53 31.08A16.4 16.4 0 0 0 203 211.75l-13.76-58.07 45-38.83a16.43 16.43 0 0 0 4.94-17.59Zm-15.34 5.47-48.7 42a8 8 0 0 0-2.56 7.91l14.88 62.8a.37.37 0 0 1-.17.48c-.18.14-.23.11-.38 0l-54.72-33.65a8 8 0 0 0-4.19-1.17V32c.24 0 .27.08.35.26L153 91.86a8 8 0 0 0 6.75 4.92l63.91 5.16c.16 0 .25 0 .34.29s0 .4-.16.5Z\"/\u003e\u003c/svg\u003e"
+                          },
+                          "styles": {
+                            "align": { "desktop": "left" },
+                            "color": { "normal": "line-3" },
+                            "globalSize": {
+                              "desktop": {
+                                "isDropDownWidth": true,
+                                "padding": { "type": "custom" },
+                                "width": "16px"
+                              }
+                            },
+                            "iconBorder": {
+                              "normal": {
+                                "border": "none",
+                                "borderType": "none",
+                                "borderWidth": "1px",
+                                "color": "#000000",
+                                "isCustom": false,
+                                "width": "1px 1px 1px 1px"
+                              }
+                            },
+                            "iconRotate": 0,
+                            "iconRounded": {
+                              "hover": { "radiusType": "none" },
+                              "normal": { "radiusType": "none" }
+                            },
+                            "iconSpacing": { "type": "none" },
+                            "iconWidth": { "desktop": "20px" },
+                            "spin": false
+                          },
+                          "tag": "Icon",
+                          "uid": "gTPVHEEjrK"
+                        }
+                      ],
+                      "label": "Icon List Item",
+                      "settings": {},
+                      "styles": {},
+                      "tag": "IconListItemHoz",
+                      "uid": "ggz4dfPENk"
+                    }
+                  ],
+                  "label": "Icon List",
+                  "settings": {
+                    "childItem": [
+                      "Icon 1",
+                      "Icon 2",
+                      "Icon 3",
+                      "Icon 4",
+                      "Icon 5"
+                    ],
+                    "preload": false
+                  },
+                  "styles": {
+                    "align": { "desktop": "left" },
+                    "background": {
+                      "desktop": {
+                        "attachment": "scroll",
+                        "color": "transparent",
+                        "image": { "height": 0, "src": "", "width": 0 },
+                        "position": { "x": 50, "y": 50 },
+                        "repeat": "no-repeat",
+                        "size": "cover",
+                        "type": "color"
+                      }
+                    },
+                    "horizontalSpacing": "4px",
+                    "verticalAlign": { "desktop": "start" }
+                  },
+                  "tag": "IconListHoz",
+                  "uid": "gKve9Hr2p8"
+                }
+              ],
+              "label": "Block",
+              "settings": {},
+              "styles": { "order": { "desktop": 0 } },
+              "tag": "Col",
+              "uid": "gh-PYecSkt"
+            }
+          ],
+          "label": "Row",
+          "settings": {
+            "blockAlignment": "start",
+            "horizontalAlign": { "desktop": "start" },
+            "inlineAlignment": "start",
+            "layout": {
+              "desktop": {
+                "cols": [6, 6],
+                "colsOrder": ["gGjnzKGCgl", "gWPZ-cpiOh"],
+                "display": "fill"
+              },
+              "mobile": { "cols": [6, 6], "display": "fill" },
+              "tablet": { "cols": [12], "display": "fit" }
+            },
+            "verticalAlign": {
+              "desktop": "end",
+              "mobile": "center",
+              "tablet": "center"
+            }
+          },
+          "styles": {
+            "background": {
+              "desktop": {
+                "attachment": "scroll",
+                "color": "#dfb52c",
+                "image": { "height": 0, "src": "", "width": 0 },
+                "position": { "x": 50, "y": 50 },
+                "repeat": "no-repeat",
+                "size": "cover",
+                "type": "color",
+                "video": "",
+                "videoHtml5": ""
+              }
+            },
+            "columnGap": { "desktop": "1%" },
+            "preloadBgImage": false,
+            "verticalGutter": { "desktop": "100px", "mobile": "50px" }
+          },
+          "tag": "Row",
+          "uid": "gv-6y4H8Db"
+        }
+      ],
+      "label": "Block",
+      "settings": {},
+      "styles": {},
+      "tag": "Col",
+      "uid": "gbwDNVZ7FS"
+    }
+  ],
+  "label": "Section",
+  "settings": {
+    "blockAlignment": "start",
+    "horizontalAlign": { "desktop": "start" },
+    "inlineAlignment": "start",
+    "layout": { "desktop": { "cols": [12], "display": "fill" } },
+    "lazy": false,
+    "verticalAlign": { "desktop": "start" }
+  },
+  "styles": {
+    "background": {
+      "desktop": {
+        "attachment": "scroll",
+        "color": "transparent",
+        "image": { "height": 0, "src": "", "width": 0 },
+        "position": { "x": 50, "y": 50 },
+        "repeat": "no-repeat",
+        "size": "cover",
+        "type": "color"
+      }
+    },
+    "fullWidth": { "desktop": true, "mobile": true, "tablet": true },
+    "preloadBgImage": false,
+    "verticalGutter": { "desktop": "32px" }
+  },
+  "tag": "Section",
+  "uid": "gPexCafBDo"
+}

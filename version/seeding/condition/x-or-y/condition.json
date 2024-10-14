@@ -1,0 +1,10 @@
+{
+  "x": "settings.background.desktop.attachment",
+  "y": "scroll",
+  "type": "NEQ",
+  "or": {
+    "x": "settings.container",
+    "y": true,
+    "type": "EQ"
+  }
+}

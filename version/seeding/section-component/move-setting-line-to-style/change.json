@@ -1,0 +1,26 @@
+{
+  "Line": [
+    {
+      "name": "lineStyle",
+      "action": "ADD",
+      "type": "styles",
+      "typeFrom": "settings",
+      "valueFrom": "lineStyle",
+      "condition":	{
+        "x": "settings.lineStyle.desktop",
+        "y": "wrong",
+        "type": "EQ",
+        "or": {
+          "x": "styles.thickness.desktop",
+          "y": 1,
+          "type": "GT"
+        }
+      }
+    },
+    {
+      "name": "lineStyle",
+      "action": "REMOVE",
+      "type": "settings"
+    }
+  ]
+}

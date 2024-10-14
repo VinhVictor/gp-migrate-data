@@ -1,0 +1,26 @@
+{
+  "uid": "gaEbJxKSet",
+  "tag": "Section",
+  "label": "Section",
+  "settings": {
+    "iconSpacing": {
+      "custom": {
+        "desktop": {
+          "vertical": "12px",
+          "horizontal": "12px"
+        },
+        "tablet": {
+          "vertical": "13px",
+          "horizontal": "13px"
+        },
+        "mobile": {
+          "vertical": "14px",
+          "horizontal": "14px"
+        }
+      }
+    }
+  },
+  "styles": {},
+  "advanced": {},
+  "childrens": []
+}

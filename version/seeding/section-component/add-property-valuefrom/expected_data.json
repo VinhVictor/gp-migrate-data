@@ -1,0 +1,15 @@
+{
+  "uid": "gaEbJxKSet",
+  "tag": "Section",
+  "label": "Section",
+  "settings": {
+    "horizontalAlign": {
+      "desktop": "start"
+    }
+  },
+  "styles": {
+    "iconSizeBackup": "start"
+  },
+  "advanced": {},
+  "childrens": []
+}

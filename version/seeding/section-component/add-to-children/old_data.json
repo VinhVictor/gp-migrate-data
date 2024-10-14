@@ -1,0 +1,275 @@
+{
+    "uid": "gk_ZxQ4BBE",
+    "tag": "IconList",
+    "label": "Icon List",
+    "settings": {
+        "childItem": [
+            "Icon 1",
+            "Icon 2",
+            "Icon 3"
+        ],
+        "background": {
+            "desktop": {
+                "type": "color",
+                "color": "transparent",
+                "image": {
+                    "src": "",
+                    "width": 0,
+                    "height": 0
+                },
+                "size": "cover",
+                "position": {
+                    "x": 50,
+                    "y": 50
+                },
+                "repeat": "no-repeat",
+                "attachment": "scroll"
+            }
+        },
+        "preload": true,
+        "horizontalSpacing": {
+            "desktop": "var(--g-s-l)",
+            "tablet": "12px"
+        },
+        "verticalSpacing": {
+            "desktop": "var(--g-s-l)",
+            "tablet": "12px"
+        },
+        "align": {
+            "desktop": "left"
+        }
+    },
+    "styles": {},
+    "advanced": {},
+    "childrens": [
+        {
+            "uid": "gk_ZxQ4BBE",
+            "tag": "IconList",
+            "label": "Icon List",
+            "settings": {
+                "childItem": [
+                    "Icon 1",
+                    "Icon 2",
+                    "Icon 3"
+                ],
+                "background": {
+                    "desktop": {
+                        "type": "color",
+                        "color": "transparent",
+                        "image": {
+                            "src": "",
+                            "width": 0,
+                            "height": 0
+                        },
+                        "size": "cover",
+                        "position": {
+                            "x": 50,
+                            "y": 50
+                        },
+                        "repeat": "no-repeat",
+                        "attachment": "scroll"
+                    }
+                },
+                "preload": true,
+                "horizontalSpacing": {
+                    "desktop": "var(--g-s-l)",
+                    "tablet": "12px"
+                },
+                "verticalSpacing": {
+                    "desktop": "var(--g-s-l)",
+                    "tablet": "12px"
+                },
+                "align": {
+                    "desktop": "left"
+                }
+            },
+            "styles": {},
+            "advanced": {},
+            "childrens": [
+                {
+                    "uid": "gk_ZxQ4BBE",
+                    "tag": "IconList",
+                    "label": "Icon List",
+                    "settings": {
+                        "childItem": [
+                            "Icon 1",
+                            "Icon 2",
+                            "Icon 3"
+                        ],
+                        "background": {
+                            "desktop": {
+                                "type": "color",
+                                "color": "transparent",
+                                "image": {
+                                    "src": "",
+                                    "width": 0,
+                                    "height": 0
+                                },
+                                "size": "cover",
+                                "position": {
+                                    "x": 50,
+                                    "y": 50
+                                },
+                                "repeat": "no-repeat",
+                                "attachment": "scroll"
+                            }
+                        },
+                        "preload": true,
+                        "horizontalSpacing": {
+                            "desktop": "var(--g-s-l)",
+                            "tablet": "12px"
+                        },
+                        "verticalSpacing": {
+                            "desktop": "var(--g-s-l)",
+                            "tablet": "12px"
+                        },
+                        "align": {
+                            "desktop": "left"
+                        }
+                    },
+                    "styles": {},
+                    "advanced": {},
+                    "childrens": [
+                        {
+                            "uid": "gk_ZxQ4BBE",
+                            "tag": "IconList",
+                            "label": "Icon List",
+                            "settings": {
+                                "childItem": [
+                                    "Icon 1",
+                                    "Icon 2",
+                                    "Icon 3"
+                                ],
+                                "background": {
+                                    "desktop": {
+                                        "type": "color",
+                                        "color": "transparent",
+                                        "image": {
+                                            "src": "",
+                                            "width": 0,
+                                            "height": 0
+                                        },
+                                        "size": "cover",
+                                        "position": {
+                                            "x": 50,
+                                            "y": 50
+                                        },
+                                        "repeat": "no-repeat",
+                                        "attachment": "scroll"
+                                    }
+                                },
+                                "preload": true,
+                                "horizontalSpacing": {
+                                    "desktop": "var(--g-s-l)",
+                                    "tablet": "12px"
+                                },
+                                "verticalSpacing": {
+                                    "desktop": "var(--g-s-l)",
+                                    "tablet": "12px"
+                                },
+                                "align": {
+                                    "desktop": "left"
+                                }
+                            },
+                            "styles": {},
+                            "advanced": {},
+                            "childrens": [
+                                {
+                                    "uid": "gk_ZxQ4BBE",
+                                    "tag": "IconList",
+                                    "label": "Icon List",
+                                    "settings": {
+                                        "childItem": [
+                                            "Icon 1",
+                                            "Icon 2",
+                                            "Icon 3"
+                                        ],
+                                        "background": {
+                                            "desktop": {
+                                                "type": "type-tudz",
+                                                "color": "color-tudz",
+                                                "image": {
+                                                    "src": "",
+                                                    "width": 0,
+                                                    "height": 0
+                                                },
+                                                "size": "size-tudz",
+                                                "position": {
+                                                    "x": 50,
+                                                    "y": 50
+                                                },
+                                                "repeat": "no-repeat",
+                                                "attachment": "scroll"
+                                            }
+                                        },
+                                        "preload": true,
+                                        "horizontalSpacing": {
+                                            "desktop": "var(--g-s-l)",
+                                            "tablet": "12px"
+                                        },
+                                        "verticalSpacing": {
+                                            "desktop": "var(--g-s-l)",
+                                            "tablet": "12px"
+                                        },
+                                        "align": {
+                                            "desktop": "left"
+                                        }
+                                    },
+                                    "styles": {},
+                                    "advanced": {},
+                                    "childrens": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+
+            ]
+        },
+        {
+            "uid": "gk_ZxQ4BBE",
+            "tag": "IconList",
+            "label": "Icon List",
+            "settings": {
+                "childItem": [
+                    "Icon 1",
+                    "Icon 2",
+                    "Icon 3"
+                ],
+                "background": {
+                    "desktop": {
+                        "type": "color",
+                        "color": "transparent",
+                        "image": {
+                            "src": "",
+                            "width": 0,
+                            "height": 0
+                        },
+                        "size": "cover",
+                        "position": {
+                            "x": 50,
+                            "y": 50
+                        },
+                        "repeat": "no-repeat",
+                        "attachment": "scroll"
+                    }
+                },
+                "preload": true,
+                "horizontalSpacing": {
+                    "desktop": "var(--g-s-l)",
+                    "tablet": "12px"
+                },
+                "verticalSpacing": {
+                    "desktop": "var(--g-s-l)",
+                    "tablet": "12px"
+                },
+                "align": {
+                    "desktop": "left"
+                }
+            },
+            "styles": {},
+            "advanced": {},
+            "childrens": []
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+  "Section": [
+    {
+      "name": "iconSizeBackup",
+      "action": "ADD",
+      "type": "styles",
+      "typeFrom": "settings",
+      "valueFrom": "horizontalAlign.desktop"
+    }
+  ]
+}

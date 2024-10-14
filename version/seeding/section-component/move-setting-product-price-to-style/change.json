@@ -1,0 +1,112 @@
+{
+  "ProductPrice": [
+    {
+      "name": "priceType",
+      "action": "ADD",
+      "type": "styles",
+      "typeFrom": "settings",
+      "valueFrom": "priceType"
+    },
+    {
+      "name": "priceType",
+      "action": "REMOVE",
+      "type": "settings"
+    },
+    {
+      "name": "lineThrough",
+      "action": "ADD",
+      "type": "styles",
+      "typeFrom": "settings",
+      "valueFrom": "lineThrough"
+    },
+    {
+      "name": "lineThrough",
+      "action": "REMOVE",
+      "type": "settings"
+    },
+    {
+      "name": "thickness",
+      "action": "ADD",
+      "type": "styles",
+      "typeFrom": "settings",
+      "valueFrom": "thickness"
+    },
+    {
+      "name": "thickness",
+      "action": "REMOVE",
+      "type": "settings"
+    },
+    {
+      "name": "lineColor",
+      "action": "ADD",
+      "type": "styles",
+      "typeFrom": "settings",
+      "valueFrom": "lineColor"
+    },
+    {
+      "name": "lineColor",
+      "action": "REMOVE",
+      "type": "settings"
+    },
+    {
+      "name": "color",
+      "action": "ADD",
+      "type": "styles",
+      "typeFrom": "settings",
+      "valueFrom": "color"
+    },
+    {
+      "name": "color",
+      "action": "REMOVE",
+      "type": "settings"
+    },
+    {
+      "name": "hasTextShadow",
+      "action": "ADD",
+      "type": "styles",
+      "typeFrom": "settings",
+      "valueFrom": "hasTextShadow"
+    },
+    {
+      "name": "hasTextShadow",
+      "action": "REMOVE",
+      "type": "settings"
+    },
+    {
+      "name": "textShadow",
+      "action": "ADD",
+      "type": "styles",
+      "typeFrom": "settings",
+      "valueFrom": "textShadow"
+    },
+    {
+      "name": "textShadow",
+      "action": "REMOVE",
+      "type": "settings"
+    },
+    {
+      "name": "typo",
+      "action": "ADD",
+      "type": "styles",
+      "typeFrom": "settings",
+      "valueFrom": "typo"
+    },
+    {
+      "name": "typo",
+      "action": "REMOVE",
+      "type": "settings"
+    },
+    {
+      "name": "textAlign",
+      "action": "ADD",
+      "type": "styles",
+      "typeFrom": "settings",
+      "valueFrom": "textAlign"
+    },
+    {
+      "name": "textAlign",
+      "action": "REMOVE",
+      "type": "settings"
+    }
+  ]
+}
